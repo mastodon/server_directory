@@ -1,0 +1,12 @@
+---
+domain: oslo.town
+override_description: false
+description: "Et lokalt, reklamefritt og uavhengig sosialt nettverk for Oslo \U0001F1F3\U0001F1F4
+  Få en kronologisk feed uten algoritmisk sporing."
+override_language: true
+categories:
+- regional
+languages:
+- 'no'
+region: europe
+legal_body_type: natural

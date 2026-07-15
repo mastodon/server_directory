@@ -1,0 +1,12 @@
+---
+domain: mastorol.es
+override_description: false
+description: Una instancia para la comunidad hispana de juegos de rol y juegos de
+  mesa.
+override_language: false
+categories:
+- games
+languages:
+- es
+region: europe
+legal_body_type: natural

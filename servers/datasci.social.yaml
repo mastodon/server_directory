@@ -1,0 +1,13 @@
+---
+domain: datasci.social
+override_description: false
+description: Community of researchers & practitioners in human-centric data science,
+  broadly defined, like network science, computational social science, geospatial
+  data science.
+override_language: false
+categories:
+- academia
+languages:
+- en
+region: europe
+legal_body_type: natural

@@ -1,0 +1,13 @@
+---
+domain: social.diva.exchange
+override_description: false
+description: "Willkommen - teile, lerne und erweitere dein Wissen.\r\nWelcome - share,
+  learn and grow your knowledge.\r\n\r\nTags: #FOSS #banking #blockchain #DIVA #privacy
+  #I2P #science"
+override_language: true
+categories:
+- tech
+languages:
+- de
+region: europe
+legal_body_type: juridicial

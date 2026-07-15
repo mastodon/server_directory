@@ -1,0 +1,13 @@
+---
+domain: flipboard.social
+override_description: false
+description: "Welcome to Flipboard on Mastodon. A place for our community of curators
+  and enthusiasts to inform and inspire each other.  \r\nIf you'd like to join please
+  request an invitation via the sign-up page. "
+override_language: false
+categories:
+- journalism
+languages:
+- en
+region: north_america
+legal_body_type: juridicial

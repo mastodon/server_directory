@@ -1,0 +1,12 @@
+---
+domain: mastodon.nl
+override_description: false
+description: Nederlandse community Mastodon server - door de Nederlandse community
+  - in stand gehouden door Stichting Activityclub
+override_language: true
+categories:
+- general
+languages:
+- nl
+region: europe
+legal_body_type: natural

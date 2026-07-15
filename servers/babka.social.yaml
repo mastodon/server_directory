@@ -1,0 +1,12 @@
+---
+domain: babka.social
+override_description: false
+description: A site where you can be unapologetically Jewish, with a healthy, diverse
+  community of Jews and Jewish allies.
+override_language: false
+categories:
+- religion
+languages:
+- en
+region: north_america
+legal_body_type: juridicial

@@ -1,0 +1,13 @@
+---
+domain: mastodon.be
+override_description: false
+description: Mastodon Belgium... All things Belgian.
+override_language: true
+categories:
+- regional
+languages:
+- de
+- fr
+- nl
+region: europe
+legal_body_type: natural

@@ -1,0 +1,13 @@
+---
+domain: indiepocalypse.social
+override_description: false
+description: Inspired by itch.io - a place for independent creators of all sorts.
+  If you create and publish independent art, comics, music, table top games, video
+  games or the written word, you're welcome here.
+override_language: false
+categories:
+- art
+languages:
+- en
+region: north_america
+legal_body_type: natural

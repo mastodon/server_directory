@@ -1,0 +1,11 @@
+---
+domain: ru.social
+override_description: false
+description: Российский узел Fediverse
+override_language: true
+categories:
+- regional
+languages:
+- ru
+region: ''
+legal_body_type:

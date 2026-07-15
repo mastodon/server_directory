@@ -1,0 +1,11 @@
+---
+domain: toot.io
+override_description: false
+description: toot.io is a fast, mainly english-speaking Mastodon instance.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: juridicial

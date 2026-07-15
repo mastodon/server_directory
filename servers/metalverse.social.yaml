@@ -1,0 +1,12 @@
+---
+domain: metalverse.social
+override_description: false
+description: "metalverse.social is a Mastodon instance hosted in Germany from Metalheads
+  for everybody. \r\n-Where the Metal connects-"
+override_language: false
+categories:
+- music
+languages:
+- en
+region: europe
+legal_body_type: natural

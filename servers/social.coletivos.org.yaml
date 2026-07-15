@@ -1,0 +1,12 @@
+---
+domain: social.coletivos.org
+override_description: false
+description: A rede social livre e inclusivx sem ânimo de lucro, sem bandeiras nem
+  partidos.
+override_language: true
+categories:
+- general
+languages:
+- pt
+region: europe
+legal_body_type: juridicial

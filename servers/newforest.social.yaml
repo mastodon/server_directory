@@ -1,0 +1,12 @@
+---
+domain: newforest.social
+override_description: false
+description: New Forest Social is a safe, community‑run Mastodon server for people,
+  businesses, and organisations with a connection or interest in the New Forest.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: europe
+legal_body_type: juridicial

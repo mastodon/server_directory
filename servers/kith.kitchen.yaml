@@ -1,0 +1,11 @@
+---
+domain: kith.kitchen
+override_description: false
+description: All about food, friends, cooking and community.
+override_language:
+categories:
+- food
+languages:
+- en
+region: ''
+legal_body_type:

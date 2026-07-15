@@ -1,0 +1,15 @@
+---
+domain: mastodon.babb.no
+override_description: false
+description: This Norwegian Mastodon server is an unofficial meeting place for University
+  of Oslo people, and more!
+override_language: true
+categories:
+- regional
+- general
+- tech
+languages:
+- en
+- 'no'
+region: europe
+legal_body_type: natural

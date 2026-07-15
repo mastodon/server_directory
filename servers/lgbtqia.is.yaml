@@ -1,0 +1,11 @@
+---
+domain: lgbtqia.is
+override_description: false
+description: A place for the LGBTQIA+ community
+override_language: false
+categories:
+- lgbt
+languages:
+- en
+region: ''
+legal_body_type:

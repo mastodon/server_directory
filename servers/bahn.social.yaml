@@ -1,0 +1,11 @@
+---
+domain: bahn.social
+override_description: false
+description: Das Wir für ein Leben von, in und mit Zügen
+override_language: false
+categories:
+- general
+languages:
+- de
+region: europe
+legal_body_type: natural

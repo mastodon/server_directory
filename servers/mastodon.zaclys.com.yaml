@@ -1,0 +1,11 @@
+---
+domain: mastodon.zaclys.com
+override_description: false
+description: La place de village francophone familiale mise à disposition par https://www.zaclys.com/
+override_language: true
+categories:
+- general
+languages:
+- fr
+region: europe
+legal_body_type: juridicial

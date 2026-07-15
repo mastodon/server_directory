@@ -1,0 +1,11 @@
+---
+domain: techhub.social
+override_description: false
+description: A hub primarily for passionate technologists, but everyone is welcome
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: natural

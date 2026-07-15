@@ -1,0 +1,13 @@
+---
+domain: woof.tech
+override_description: false
+description: Queer, tech and furry instance. Open to anyone that fits the atmosphere,
+  come on in!
+override_language: false
+categories:
+- furry
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

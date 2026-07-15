@@ -1,0 +1,16 @@
+---
+domain: ursal.zone
+override_description: true
+description: A URSAL.zone é uma instância do Mastodon voltada para pessoas latinoamericanas
+  que se identifiquem como progressistas, antifascistas e contrárias a toda e qualquer
+  forma de opressão, exploração e humilhação entre seres humanos. Somos também uma
+  comunidade feminista, antiracista, anticolonialista, acessível e inclusiva a pessoas
+  trans e não-binárias.
+override_language: false
+categories:
+- regional
+- activism
+languages:
+- pt
+region: south_america
+legal_body_type: natural

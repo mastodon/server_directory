@@ -1,0 +1,12 @@
+---
+domain: union.place
+override_description: false
+description: 'The Union Place: a federated server for union members, organizations,
+  friends, and allies. If you support labor and labor rights, you have a place here!'
+override_language: false
+categories:
+- activism
+languages:
+- en
+region: north_america
+legal_body_type: natural

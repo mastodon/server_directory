@@ -1,0 +1,11 @@
+---
+domain: techtoots.com
+override_description: false
+description: An english Mastodon community focused around technology.
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: natural

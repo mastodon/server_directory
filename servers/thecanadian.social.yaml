@@ -1,0 +1,13 @@
+---
+domain: thecanadian.social
+override_description: false
+description: Politics, sports, current events and laughs from Canada and across the
+  fediverse.
+override_language: true
+categories:
+- regional
+languages:
+- en
+- fr
+region: north_america
+legal_body_type: natural

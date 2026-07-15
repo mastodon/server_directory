@@ -1,0 +1,12 @@
+---
+domain: tuiter.rocks
+override_description: false
+description: Instancia Mastodon en español con humor, conversación y comunidad. Registro
+  revisado manualmente.
+override_language: false
+categories:
+- general
+languages:
+- es
+region: europe
+legal_body_type: natural

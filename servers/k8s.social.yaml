@@ -1,0 +1,12 @@
+---
+domain: k8s.social
+override_description: false
+description: Unofficial ⎈Kubernetes Mastodon instance for container and cloud native
+  enthusiasts.
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

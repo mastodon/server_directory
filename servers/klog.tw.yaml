@@ -1,0 +1,11 @@
+---
+domain: klog.tw
+override_description: false
+description: 分享流行音樂，影視作品與記錄生活。
+override_language: true
+categories:
+- music
+languages:
+- zh
+region: asia
+legal_body_type: natural

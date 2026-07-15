@@ -1,0 +1,13 @@
+---
+domain: social.ferrocarril.net
+override_description: false
+description: Servidor de mastodon, operado por aficionados al ferrocarril, para aficionados
+  al ferrocarril.
+override_language: true
+categories:
+- regional
+- general
+languages:
+- es
+region: europe
+legal_body_type: natural

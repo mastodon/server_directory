@@ -1,0 +1,11 @@
+---
+domain: switter.at
+override_description: false
+description: Switter, a sex work-friendly social space
+override_language:
+categories:
+- adult
+languages:
+- en
+region: ''
+legal_body_type:

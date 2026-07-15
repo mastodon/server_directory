@@ -1,0 +1,12 @@
+---
+domain: soundcafe.nl
+override_description: false
+description: Sound Café is een Nederlandstalige Mastodon-server. Mastodon is het onafhankelijke
+  sociale netwerk van de toekomst.
+override_language: true
+categories:
+- music
+languages:
+- nl
+region: ''
+legal_body_type:

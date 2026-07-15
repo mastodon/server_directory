@@ -1,0 +1,14 @@
+---
+domain: wehavecookies.social
+override_description: false
+description: "Join us, we have cookies!\r\nEverything and everyone is welcome here:
+  humor, technology, politics, cats, dogs, nerds, entertainment, incoherent thoughts,
+  you name it.\r\n"
+override_language: true
+categories:
+- general
+languages:
+- en
+- de
+region: europe
+legal_body_type: natural

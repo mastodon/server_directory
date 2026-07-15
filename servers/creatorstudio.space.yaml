@@ -1,0 +1,12 @@
+---
+domain: creatorstudio.space
+override_description: false
+description: A place in the Fediverse for creators of all kinds to socialize and connect
+  with like-minded folk!
+override_language: false
+categories:
+- games
+languages:
+- en
+region: north_america
+legal_body_type: natural

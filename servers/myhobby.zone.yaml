@@ -1,0 +1,13 @@
+---
+domain: myhobby.zone
+override_description: false
+description: 'This is a small mastodon solo instance that I use to experiment with
+  the #fediverse, while learning and sharing about hobbies in general.'
+override_language: false
+categories:
+- general
+- art
+languages:
+- en
+region: north_america
+legal_body_type: natural

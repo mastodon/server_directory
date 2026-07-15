@@ -1,0 +1,11 @@
+---
+domain: kcmo.social
+override_description: false
+description: Hey Kansas City, be friendly!
+override_language:
+categories:
+- regional
+languages:
+- en
+region: ''
+legal_body_type:

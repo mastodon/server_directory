@@ -1,0 +1,14 @@
+---
+domain: mastodon.com.pl
+override_description: false
+description: "(PL): Mastodon Polska - Bezpieczna, wolna instancja otwartej sieci społecznościowej
+  Mastodon.\r\n(EN): Mastodon Poland - A safe, free instance of the Mastodon open
+  social network."
+override_language: true
+categories:
+- general
+languages:
+- pl
+- en
+region: europe
+legal_body_type: natural

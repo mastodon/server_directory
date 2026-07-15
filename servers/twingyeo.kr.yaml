@@ -1,0 +1,11 @@
+---
+domain: twingyeo.kr
+override_description: false
+description: "@cheesekun 의 개인 인스턴스."
+override_language: true
+categories:
+- general
+languages:
+- ko
+region: asia
+legal_body_type: natural

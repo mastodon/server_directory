@@ -1,0 +1,12 @@
+---
+domain: mathstodon.xyz
+override_description: false
+description: A Mastodon instance for maths people. We have LaTeX rendering in the
+  web interface!
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

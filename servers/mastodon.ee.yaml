@@ -1,0 +1,13 @@
+---
+domain: mastodon.ee
+override_description: false
+description: Räägime Eestist, eestlaste tegevusest ja muust maailmast. Let's talk
+  about Estonia, what do Estonians do and rest of the world.
+override_language: true
+categories:
+- regional
+languages:
+- et
+- en
+region: europe
+legal_body_type: natural

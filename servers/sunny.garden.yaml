@@ -1,0 +1,14 @@
+---
+domain: sunny.garden
+override_description: false
+description: sunny.garden is a community for indie creators who draw, paint, sculpt,
+  write, design, program, play, sing or build, and anyone else who thinks that sounds
+  like a nice place to be.
+override_language: false
+categories:
+- art
+- music
+languages:
+- en
+region: north_america
+legal_body_type: natural

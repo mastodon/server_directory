@@ -1,0 +1,12 @@
+---
+domain: mstdn.business
+override_description: false
+description: Business-friendly Mastodon server,open for everyone interested to contribute
+  with their real name, business, brand, or startup to build a professional community.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: juridicial

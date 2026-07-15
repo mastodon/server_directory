@@ -1,0 +1,13 @@
+---
+domain: mementomori.social
+override_description: false
+description: Mementomori.social is a social media platform for mortals. We connect
+  with the Fediverse, used by millions. The instance is backed by Mementomori ry,
+  a Finnish non-profit association.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: juridicial

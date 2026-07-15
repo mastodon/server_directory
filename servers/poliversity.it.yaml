@@ -1,0 +1,14 @@
+---
+domain: poliversity.it
+override_description: false
+description: Poliversity è una comunità dedicata alla ricerca scientifica e al giornalismo,
+  all'università e all'istruzione ed è nata per promuovere il diritto alla conoscenza
+  e la corretta informazione
+override_language: false
+categories:
+- journalism
+- academia
+languages:
+- it
+region: europe
+legal_body_type: natural

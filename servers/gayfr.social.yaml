@@ -1,0 +1,13 @@
+---
+domain: gayfr.social
+override_description: false
+description: 'Service Mastodon généraliste animé par la communauté gay francophone
+  : discussions, partages et tous sujets de conversation, ouverture d''esprit et liberté
+  du corps, dans le respect et la bienveillance'
+override_language: false
+categories:
+- lgbt
+languages:
+- fr
+region: europe
+legal_body_type: natural

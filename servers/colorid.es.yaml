@@ -1,0 +1,12 @@
+---
+domain: colorid.es
+override_description: false
+description: Uma instância com moderação ativa e foco em pessoas queer/LGBTQIAPN+
+  que falam português. Saiba mais em http://sobre.colorid.es!
+override_language: false
+categories:
+- lgbt
+languages:
+- pt
+region: europe
+legal_body_type: natural

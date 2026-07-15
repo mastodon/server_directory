@@ -1,0 +1,13 @@
+---
+domain: leipzig.town
+override_description: false
+description: Hier sind alle Willkommen, die Leipzig ihr zu Hause nennen und/oder die
+  Stadt lieben. Bitte seid exzellent zueinander und haltet euch an die Regeln. Foto
+  von F. Heiberger, Pixabay.
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

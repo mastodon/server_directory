@@ -1,0 +1,12 @@
+---
+domain: vocalounge.cafe
+override_description: false
+description: A Mastodon instance specializing in Vocaloid, UTAU, and anything relevant
+  to vocalsynth culture.
+override_language:
+categories:
+- music
+languages:
+- en
+region: ''
+legal_body_type:

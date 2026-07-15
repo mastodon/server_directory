@@ -1,0 +1,11 @@
+---
+domain: birdon.social
+override_description: false
+description: 'A Mastodon server dedicated to bird and nature lovers. '
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural

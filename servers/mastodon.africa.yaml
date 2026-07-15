@@ -1,0 +1,13 @@
+---
+domain: mastodon.africa
+override_description: false
+description: Mastodon.Africa is run by South Africans, for South Africans, Africans
+  and everybody else looking for a friendly and welcoming Mastodon instance.
+override_language: false
+categories:
+- regional
+- general
+languages:
+- en
+region: africa
+legal_body_type: natural

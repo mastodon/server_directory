@@ -1,0 +1,13 @@
+---
+domain: linux.social
+override_description: false
+description: Official Mastodon for the Linux.Chat multi-platform community, for people
+  who are passionate about, support, or work with Linux. See https://Linux.Chat for
+  more info.
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

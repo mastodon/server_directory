@@ -1,0 +1,13 @@
+---
+domain: toot.aquilenet.fr
+override_description: false
+description: "Cette instance est hébergée par Aquilenet, FAI associatif, local et
+  militant en Aquitaine.\r\nElle est administrée et modérée par des bénévoles sous
+  leurs propres responsabilités et non celle de l'asso."
+override_language: false
+categories:
+- general
+languages:
+- fr
+region: europe
+legal_body_type: juridicial

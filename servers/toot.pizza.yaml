@@ -1,0 +1,11 @@
+---
+domain: toot.pizza
+override_description: false
+description: An NYC-based instance geared towards urbanism and transit nerds.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

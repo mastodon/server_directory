@@ -1,0 +1,14 @@
+---
+domain: retro-gaiden.com
+override_description: false
+description: Do you love retro games, tech, music or movies? Are you a content creator
+  who focuses on retro content? Tired of seeing political hot takes flood your local
+  timeline? Welcome to your Fediverse home!
+override_language: false
+categories:
+- games
+- hobby
+languages:
+- en
+region: north_america
+legal_body_type: natural

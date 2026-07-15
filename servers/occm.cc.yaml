@@ -1,0 +1,12 @@
+---
+domain: occm.cc
+override_description: false
+description: "자커마스는 자작 캐릭터 커뮤니티, 즉 자캐커뮤를 위한 마스토돈 인스턴스입니다.\r\n자캐커뮤에 특화된 서버 설정을 제공하며,
+  한국어 검색을 지원합니다."
+override_language: false
+categories:
+- hobby
+languages:
+- ko
+region: asia
+legal_body_type: natural

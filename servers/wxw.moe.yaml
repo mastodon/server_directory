@@ -1,0 +1,11 @@
+---
+domain: wxw.moe
+override_description: false
+description: 一个 泛ACGN 实例，讨论主题不限 ~
+override_language: true
+categories:
+- general
+languages:
+- zh
+region: asia
+legal_body_type: natural

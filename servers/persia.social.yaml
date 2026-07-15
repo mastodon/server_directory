@@ -1,0 +1,11 @@
+---
+domain: persia.social
+override_description: false
+description: 'A Mastodon instance for Persians, Iranians, and all the like. '
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: asia
+legal_body_type: natural

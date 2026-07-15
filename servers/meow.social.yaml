@@ -1,0 +1,12 @@
+---
+domain: meow.social
+override_description: false
+description: This instance is focused around the furry fandom and is open to all fluffies
+  and scalies!
+override_language: false
+categories:
+- furry
+languages:
+- en
+region: north_america
+legal_body_type: natural

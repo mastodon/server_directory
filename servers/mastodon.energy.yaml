@@ -1,0 +1,14 @@
+---
+domain: mastodon.energy
+override_description: false
+description: We are a server dedicated to professional and academic individuals and
+  organizations working on energy transition policy, infrastructure, technology, journalism,
+  and science.
+override_language: false
+categories:
+- tech
+- academia
+languages:
+- en
+region: north_america
+legal_body_type: natural

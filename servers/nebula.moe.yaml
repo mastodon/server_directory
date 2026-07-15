@@ -1,0 +1,11 @@
+---
+domain: nebula.moe
+override_description: false
+description: A LGBT-friendly server for Chinese speakers
+override_language: true
+categories:
+- general
+languages:
+- zh
+region: ''
+legal_body_type:

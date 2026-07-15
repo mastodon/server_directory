@@ -1,0 +1,13 @@
+---
+domain: mastodon.pirateparty.be
+override_description: false
+description: ''
+override_language: true
+categories:
+- activism
+languages:
+- en
+- fr
+- nl
+region: europe
+legal_body_type: juridicial

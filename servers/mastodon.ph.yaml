@@ -1,0 +1,11 @@
+---
+domain: mastodon.ph
+override_description: false
+description: Mastodon para sa mga Pilipino (Mastodon for The Philippines).
+override_language: true
+categories:
+- regional
+languages:
+- fil
+region: asia
+legal_body_type: natural

@@ -1,0 +1,11 @@
+---
+domain: ornitologia.social
+override_description: false
+description: Servidor mastodon per afeccionats a l'ornitologia
+override_language: false
+categories:
+- hobby
+languages:
+- en
+region: europe
+legal_body_type: natural

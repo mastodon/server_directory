@@ -1,0 +1,13 @@
+---
+domain: tooting.ch
+override_description: false
+description: "Instance Mastodon suisse pour les personnes de suisses et hébergée par
+  l'association FairSocialNet | \r\nSwiss Mastodon instance for people of Switzerland
+  hosted by the FairSocialNet association."
+override_language: false
+categories:
+- general
+languages:
+- fr
+region: europe
+legal_body_type: natural

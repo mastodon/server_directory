@@ -1,0 +1,12 @@
+---
+domain: defcon.social
+override_description: false
+description: DEFCON.social = The intersection of technology and society, a community
+  for artists, hackers, policy, academics, researchers, infosec, activists & cyberpunks
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: juridicial

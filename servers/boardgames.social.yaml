@@ -1,0 +1,11 @@
+---
+domain: boardgames.social
+override_description: false
+description: Community for for board gamers and the games they love
+override_language:
+categories:
+- games
+languages:
+- en
+region: ''
+legal_body_type:

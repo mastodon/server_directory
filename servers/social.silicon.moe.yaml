@@ -1,0 +1,12 @@
+---
+domain: social.silicon.moe
+override_description: false
+description: "SiliconForest 커뮤니티 마스토돈 - 전자쟁이와 CS쟁이들 환영\r\nAn IT and electronics centric
+  Fediverse instance for & by the SiliconForest community"
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: asia
+legal_body_type: natural

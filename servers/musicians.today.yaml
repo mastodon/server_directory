@@ -1,0 +1,12 @@
+---
+domain: musicians.today
+override_description: false
+description: Fediverse community for musicians of all levels, instruments, regions,
+  languages, and genres.
+override_language: false
+categories:
+- music
+languages:
+- en
+region: north_america
+legal_body_type: natural

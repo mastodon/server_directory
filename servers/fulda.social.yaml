@@ -1,0 +1,13 @@
+---
+domain: fulda.social
+override_description: false
+description: 'Öffentliche Mastodon Instanz von dasnetzundich.de. Frei für alle die
+  Spass an Mastodon haben und die eine andere Art des sozialen Netzwerks erleben wollen.
+  Info für Gmail Nutzer: nutzt @googlemail.com'
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

@@ -1,0 +1,11 @@
+---
+domain: nutmeg.social
+override_description: false
+description: A Μаstοdοn server for Сοnnесtiсut
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

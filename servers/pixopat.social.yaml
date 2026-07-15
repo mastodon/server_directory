@@ -1,0 +1,14 @@
+---
+domain: pixopat.social
+override_description: false
+description: A Video Games, Movies, Music and Technology centered mastodon server.
+  // Video Oyun, Sinema, Müzik ve Teknoloji odaklı bir mastodon server'ı. // TOOTS
+  in TR & EN
+override_language: false
+categories:
+- games
+- art
+languages:
+- en
+region: europe
+legal_body_type: natural

@@ -1,0 +1,13 @@
+---
+domain: mastodon.arch-linux.cz
+override_description: false
+description: "Instance otevřena všem českým uživatelům. Komunikujte s přáteli a objevujte
+  nové,to vše na platformě vlastněné komunitou a nadšenci open source.\r\n"
+override_language: true
+categories:
+- tech
+- general
+languages:
+- cs
+region: europe
+legal_body_type: natural

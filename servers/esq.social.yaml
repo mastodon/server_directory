@@ -1,0 +1,13 @@
+---
+domain: esq.social
+override_description: false
+description: "A Mastodon instance for legal professionals and folks in law-adjacent
+  fields. \r\n\r\nWe abide by the Mastodon Server Covenant, available at https://joinmastodon.org/covenant "
+override_language: false
+categories:
+- academia
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

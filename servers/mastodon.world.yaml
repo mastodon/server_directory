@@ -1,0 +1,11 @@
+---
+domain: mastodon.world
+override_description: false
+description: Generic Mastodon server for anyone to use.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: ''
+legal_body_type:

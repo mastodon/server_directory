@@ -1,0 +1,12 @@
+---
+domain: ohai.social
+override_description: false
+description: A cozy, fast and secure Mastodon server where everyone is welcome. Run
+  by the folks at ohai.is.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural

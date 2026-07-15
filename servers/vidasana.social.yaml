@@ -1,0 +1,13 @@
+---
+domain: vidasana.social
+override_description: false
+description: Red social libre, sin anuncios ni algoritmos, para los amantes de la
+  vida sana hispanohablantes. Bienestar, nutrición, cosmética natural, deporte, osteopatía,
+  fisioterapia, yoga, pilates, meditación.
+override_language: true
+categories:
+- sports
+languages:
+- es
+region: europe
+legal_body_type: natural

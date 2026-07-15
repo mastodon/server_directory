@@ -1,0 +1,11 @@
+---
+domain: emastodon.com
+override_description: false
+description: A friendly ZedPro community server. Let's build a fun community together
+override_language:
+categories:
+- tech
+languages:
+- en
+region: ''
+legal_body_type:

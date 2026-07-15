@@ -1,0 +1,11 @@
+---
+domain: megadon.net
+override_description: false
+description: A friendly community
+override_language: false
+categories:
+- general
+languages:
+- en
+region: ''
+legal_body_type:

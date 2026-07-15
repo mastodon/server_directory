@@ -1,0 +1,13 @@
+---
+domain: social.sciences.re
+override_description: false
+description: Sciences·Re souhaite offrir un espace de partage, de collaboration et
+  de discussion en ligne pour la communauté scientifique, académique, éducative francophone.
+  Elle est sans coloration thématique.
+override_language: false
+categories:
+- academia
+languages:
+- fr
+region: europe
+legal_body_type: natural

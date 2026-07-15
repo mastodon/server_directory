@@ -1,0 +1,13 @@
+---
+domain: mastodon.tn
+override_description: false
+description: Réseau social décentralisé propulsé par Mastodon.
+override_language: true
+categories:
+- regional
+languages:
+- ar
+- fr
+- en
+region: africa
+legal_body_type: natural

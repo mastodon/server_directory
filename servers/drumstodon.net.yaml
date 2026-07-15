@@ -1,0 +1,12 @@
+---
+domain: drumstodon.net
+override_description: false
+description: Server intended primarily for drummers of all kinds and ages, but all
+  other musicians and music lovers are welcome here!
+override_language: false
+categories:
+- music
+languages:
+- en
+region: europe
+legal_body_type: natural

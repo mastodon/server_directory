@@ -1,0 +1,13 @@
+---
+domain: graphics.social
+override_description: false
+description: A gathering place for the computer graphics community to discuss 3D and
+  2D graphics, computer science, and any related topics. Everyone is welcome here.
+override_language: false
+categories:
+- art
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

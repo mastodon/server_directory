@@ -1,0 +1,11 @@
+---
+domain: bath.social
+override_description: false
+description: Bath’s local social platform — run by and for its people.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: europe
+legal_body_type: natural

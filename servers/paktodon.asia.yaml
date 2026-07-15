@@ -1,0 +1,13 @@
+---
+domain: paktodon.asia
+override_description: false
+description: Paktodon is an Independent social-platform for the Global South – an
+  ‘azad’ space for ordinary citizens, students, and activists to share, learn, grow,
+  and collaborate in.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: asia
+legal_body_type: natural

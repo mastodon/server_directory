@@ -1,0 +1,11 @@
+---
+domain: banana.dog
+override_description: false
+description: Banana dog
+override_language:
+categories:
+- humor
+languages:
+- en
+region: ''
+legal_body_type:

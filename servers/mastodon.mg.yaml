@@ -1,0 +1,11 @@
+---
+domain: mastodon.mg
+override_description: false
+description: La première instance malgache de Mastodon.
+override_language: false
+categories:
+- regional
+languages:
+- fr
+region: africa
+legal_body_type: natural

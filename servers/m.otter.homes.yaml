@@ -1,0 +1,11 @@
+---
+domain: m.otter.homes
+override_description: false
+description: "欢迎来到獭獭之家 （m.otter.homes）! Welcome to m.otter.homes!\r\n\r\nm.otter.homes是一个自由、开放、多语言的长毛象实例。在这里你可以和Fediverse中不同背景、爱好的任何人友好地交流，而免于任何政府或大公司的言论审查。"
+override_language: false
+categories:
+- general
+languages:
+- zh
+region: europe
+legal_body_type: natural

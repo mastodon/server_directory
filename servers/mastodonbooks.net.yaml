@@ -1,0 +1,13 @@
+---
+domain: mastodonbooks.net
+override_description: false
+description: "We are 'the' book-dedicated space on Mastodon. If you are an avid reader,
+  an author, a librarian, a bookstore, a publisher or just a nice person and you love
+  books! Then, this is home \U0001F970"
+override_language: false
+categories:
+- books
+languages:
+- en
+region: north_america
+legal_body_type: natural

@@ -1,0 +1,14 @@
+---
+domain: tkz.one
+override_description: false
+description: La comunidad Mastodon más grande en Español para gamers, otakus y geeks.
+  Libre de toxicidad. Contenido de anime, manga, videojuegos, tecnología, cómics,
+  literatura, cine... ¡Únete a la familia!
+override_language: true
+categories:
+- games
+- general
+languages:
+- es
+region: europe
+legal_body_type: natural

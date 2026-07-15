@@ -1,0 +1,12 @@
+---
+domain: sanjuans.life
+override_description: false
+description: "IMPORTANT - SanJuans.life is closing down. Time-critical action required!\r\n\r\nPlease
+  read details and suggestions for migrating your account here: https://sanjuans.life/about"
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

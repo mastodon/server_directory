@@ -1,0 +1,13 @@
+---
+domain: toad.social
+override_description: false
+description: "Mastodon server operated by David Troy, a tech pioneer and investigative
+  journalist addressing threats to democracy. Thoughtful participation and discussion
+  welcome.\r\n"
+override_language: false
+categories:
+- journalism
+languages:
+- en
+region: north_america
+legal_body_type: natural

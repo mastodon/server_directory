@@ -1,0 +1,12 @@
+---
+domain: icosahedron.website
+override_description: false
+description: Icosahedron.website is a mastodon instance and part of the ActivityPub
+  network / the Fediverse.
+override_language:
+categories:
+- general
+languages:
+- en
+region: ''
+legal_body_type:

@@ -1,0 +1,12 @@
+---
+domain: clj.social
+override_description: false
+description: Clojure Community on Fediverse, the accounts on this server are managed
+  by the community, it will not post only about Clojure related content.
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: south_america
+legal_body_type: natural

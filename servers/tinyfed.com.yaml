@@ -1,0 +1,11 @@
+---
+domain: tinyfed.com
+override_description: false
+description: A general purpose community supported by ethical untargeted ads.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: ''
+legal_body_type:

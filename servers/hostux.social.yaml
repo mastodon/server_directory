@@ -1,0 +1,14 @@
+---
+domain: hostux.social
+override_description: false
+description: "European mastodon instance hosted in TH2LF (FR). Also beer, privacy
+  and free software lovers. Join us!\r\nThis service is managed by alarig and valere.\r\nPhoto
+  from https://www.flickr.com/photos/cogdog/"
+override_language: false
+categories:
+- food
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

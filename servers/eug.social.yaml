@@ -1,0 +1,13 @@
+---
+domain: eug.social
+override_description: false
+description: EUG.social is an open Mastodon server for the greater Eugene area in
+  Oregon. Launched and moderated by Open Eugene as an Open Collective project and
+  Code for America chapter.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

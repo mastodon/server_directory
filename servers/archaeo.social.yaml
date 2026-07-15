@@ -1,0 +1,12 @@
+---
+domain: archaeo.social
+override_description: false
+description: 'archaeo.social is a Mastodon instance for archaeologists, ancient historians
+  and anyone interested in scholarly communication about the human past. More: https://about.archaeo.social'
+override_language: false
+categories:
+- academia
+languages:
+- en
+region: europe
+legal_body_type: natural

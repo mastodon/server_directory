@@ -1,0 +1,12 @@
+---
+domain: kfem.cat
+override_description: false
+description: La xarxa social del futur. Sense publicitats, feta per joves, pels joves
+  de totes les edats. Servidors de proximitat.
+override_language: true
+categories:
+- regional
+languages:
+- ca
+region: europe
+legal_body_type: natural

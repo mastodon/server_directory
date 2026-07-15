@@ -1,0 +1,12 @@
+---
+domain: augsburg.social
+override_description: false
+description: Augsburg.Social bietet diese Instanz an damit Du Deinen Weg ins Fediverse
+  finden kannst. Der Dienst richtet sich an Augsburg und Umgebung.
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

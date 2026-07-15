@@ -1,0 +1,12 @@
+---
+domain: mastodon.hosnet.fr
+override_description: false
+description: Libre accès à l'information et le partage, décentralisé et Open-Source,
+  tout le contraire des toxicités des concurrents méta-méga pisteurs ^^
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

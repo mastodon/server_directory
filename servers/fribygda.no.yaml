@@ -1,0 +1,14 @@
+---
+domain: fribygda.no
+override_description: false
+description: Fribygda er ei anarkistisk / venstrelibertariansk bygd ute i fødiverset.
+  Et lite koselig sted for fritt uttrykk, fri utfoldelse og trygge omgivelser.
+override_language: true
+categories:
+- regional
+languages:
+- 'no'
+- sv
+- da
+region: europe
+legal_body_type: natural

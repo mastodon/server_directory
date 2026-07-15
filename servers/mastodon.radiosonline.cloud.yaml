@@ -1,0 +1,12 @@
+---
+domain: mastodon.radiosonline.cloud
+override_description: false
+description: Servidor Social dedicado a los oyentes de nuestras 3 radios online, y
+  de todos aquellos usuarios que quieran tener este servidor como principal
+override_language: true
+categories:
+- music
+languages:
+- es
+region: ''
+legal_body_type:

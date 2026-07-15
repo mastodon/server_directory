@@ -1,0 +1,12 @@
+---
+domain: frikiverse.zone
+override_description: false
+description: 'El Frikiverse es una comunidad para frikis de todas las tendencias.
+  Por defecto en castellano, pero todos los idiomas son bienvenidos. '
+override_language: true
+categories:
+- general
+languages:
+- es
+region: europe
+legal_body_type: natural

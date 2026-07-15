@@ -1,0 +1,12 @@
+---
+domain: graz.social
+override_description: true
+description: 'Ein Mastodon-Server für Graz und Umland betrieben durch den Verein graz.social
+  - Verein zur Förderung ethischer '
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

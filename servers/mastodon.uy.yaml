@@ -1,0 +1,12 @@
+---
+domain: mastodon.uy
+override_description: false
+description: Primer servidor uruguayo de Mastodon. Verdad, memoria, justicia y autogestión.
+  El registro es por aprobación y puede demorar hasta 24hs en ser procesado.
+override_language: false
+categories:
+- general
+languages:
+- es
+region: south_america
+legal_body_type: natural

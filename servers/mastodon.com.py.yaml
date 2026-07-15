@@ -1,0 +1,12 @@
+---
+domain: mastodon.com.py
+override_description: false
+description: 'Primer servidor federado de Mastodon en Paraguay: todos los latinos
+  y hablantes de español bienvenidos!'
+override_language: false
+categories:
+- regional
+languages:
+- es
+region: south_america
+legal_body_type: natural

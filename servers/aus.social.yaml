@@ -1,0 +1,11 @@
+---
+domain: aus.social
+override_description: false
+description: Welcome to thundertoot! A Mastodon Instance for the People.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: oceania
+legal_body_type: natural

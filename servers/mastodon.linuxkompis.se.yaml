@@ -1,0 +1,11 @@
+---
+domain: mastodon.linuxkompis.se
+override_description: false
+description: En vänlig Mastodon-instans för alla Linux-användare.
+override_language: true
+categories:
+- tech
+languages:
+- sv
+region: ''
+legal_body_type:

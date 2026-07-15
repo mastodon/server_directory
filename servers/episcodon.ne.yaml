@@ -1,0 +1,11 @@
+---
+domain: episcodon.ne
+override_description: false
+description: a Mastodon server for Episcopalians
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

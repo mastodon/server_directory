@@ -1,0 +1,11 @@
+---
+domain: brieseland.de
+override_description: false
+description: Privater Server.
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

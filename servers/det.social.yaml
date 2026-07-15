@@ -1,0 +1,12 @@
+---
+domain: det.social
+override_description: false
+description: 'Mastodon Server des Unterhaltungsfernsehen Ehrenfeld zum dezentralen
+  Diskurs. '
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural

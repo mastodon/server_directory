@@ -1,0 +1,11 @@
+---
+domain: utopia.cool
+override_description: false
+description: "utopia.cool 是一个自由、友善、开放的「言论广场」。\r\n我们重视公共讨论，鼓励表达和对话，希望一起创造良好的网络社交环境。"
+override_language: true
+categories:
+- general
+languages:
+- zh
+region: asia
+legal_body_type: natural

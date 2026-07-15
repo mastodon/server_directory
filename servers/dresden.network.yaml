@@ -1,0 +1,12 @@
+---
+domain: dresden.network
+override_description: false
+description: dresden.network ist eine Mastodon Instanz für alle aus Dresden und Umgebung,
+  dennoch offen für alle. Das Team besteht aus @markus@dresden.network und @ueckueck@dresden.network.
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

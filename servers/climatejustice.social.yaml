@@ -1,0 +1,11 @@
+---
+domain: climatejustice.social
+override_description: false
+description: Welcome to this Fediverse instance for climate justice activists.
+override_language: false
+categories:
+- activism
+languages:
+- en
+region: ''
+legal_body_type:

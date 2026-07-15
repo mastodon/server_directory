@@ -1,0 +1,12 @@
+---
+domain: mstdn.ca
+override_description: false
+description: A community for Canadians, First Nations, Metis, and Inuit Peoples of
+  the great white north.
+override_language: true
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

@@ -1,0 +1,12 @@
+---
+domain: mastodon.escepticos.es
+override_description: false
+description: Esta instancia persigue el cumplimiento de los objetivos sociales de
+  ARP Sociedad para el Avance del Pensamiento crítico. ARP-SAPC
+override_language: true
+categories:
+- general
+languages:
+- es
+region: europe
+legal_body_type: juridicial

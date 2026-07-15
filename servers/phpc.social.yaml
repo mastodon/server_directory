@@ -1,0 +1,13 @@
+---
+domain: phpc.social
+override_description: false
+description: A server for PHP programmers & friends. Join us for discussions on the
+  PHP programming language, frameworks, packages, tools, open source, tech, life,
+  and more.
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: juridicial

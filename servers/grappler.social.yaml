@@ -1,0 +1,13 @@
+---
+domain: grappler.social
+override_description: false
+description: A place for Wrestling, MMA, and Martial Arts enthusiast to connect and
+  communicate.  This server is hosted by a wrestling enthusiast and long time wrestling
+  official.
+override_language: false
+categories:
+- sports
+languages:
+- en
+region: north_america
+legal_body_type: natural

@@ -1,0 +1,11 @@
+---
+domain: artsio.com
+override_description: false
+description: Artsio is a creativity and art focused community on the fediverse.
+override_language: false
+categories:
+- art
+languages:
+- en
+region: europe
+legal_body_type: natural

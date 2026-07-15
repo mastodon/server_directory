@@ -1,0 +1,12 @@
+---
+domain: mastodon.re
+override_description: false
+description: Mastodon.re est un serveur mastodon public réunionnais accessible à toutes
+  et à tous.
+override_language: false
+categories:
+- regional
+languages:
+- fr
+region: africa
+legal_body_type: natural

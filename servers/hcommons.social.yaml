@@ -1,0 +1,12 @@
+---
+domain: hcommons.social
+override_description: false
+description: hcommons.social is a microblogging network supporting scholars and practitioners
+  across the humanities and around the world.
+override_language: false
+categories:
+- academia
+languages:
+- en
+region: north_america
+legal_body_type: juridicial

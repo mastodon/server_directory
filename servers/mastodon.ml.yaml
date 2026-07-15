@@ -1,0 +1,12 @@
+---
+domain: mastodon.ml
+override_description: false
+description: Русскоязычный сервер социальной сети Mastodon. Зона общения, свободная
+  от рекламы и шпионажа, теперь и на русском языке.
+override_language: true
+categories:
+- general
+languages:
+- ru
+region: europe
+legal_body_type: natural

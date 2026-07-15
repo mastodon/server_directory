@@ -1,0 +1,14 @@
+---
+domain: renkontu.com
+override_description: false
+description: 아무말을 시작해보세요. 렌콘투는 아무말을 쓰기 위한 인스턴스 입니다. 모든 글이 다 의미있을 필요는 없죠! 가볍게 글을 써보세요.
+  Say Something Pointless!
+override_language: true
+categories:
+- regional
+- general
+languages:
+- ko
+- en
+region: asia
+legal_body_type: natural

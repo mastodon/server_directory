@@ -1,0 +1,13 @@
+---
+domain: newsie.social
+override_description: false
+description: 'A large and professionally administered Mastodon server that hosts a
+  large number of journalists and news outlets. Content focuses heavily on news and
+  current events. #newstodon'
+override_language: false
+categories:
+- journalism
+languages:
+- en
+region: north_america
+legal_body_type: juridicial

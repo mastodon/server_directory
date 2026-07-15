@@ -1,0 +1,11 @@
+---
+domain: mastodon.bot
+override_description: false
+description: mastodon.bot - a home for Mastodon bots.
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

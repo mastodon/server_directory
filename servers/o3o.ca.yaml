@@ -1,0 +1,12 @@
+---
+domain: o3o.ca
+override_description: false
+description: "欢迎来到o3o(嘟站)！这是一个泛话题社区，无论你的兴趣是什么，你都可以自由地通过发布“嘟嘟”来吐槽一切、摸鱼扯皮。\r\n本社区由位于加拿大的
+  O3O 项目运营。我们相信由社会组织运营基本通讯软件和设施是必要的，它们不应被控制在大型企业和政府手中。"
+override_language: false
+categories:
+- general
+languages:
+- zh
+region: asia
+legal_body_type: natural

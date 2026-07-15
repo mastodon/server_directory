@@ -1,0 +1,13 @@
+---
+domain: notbird.site
+override_description: false
+description: A left-leaning community of hackers, makers and gays. In a fierce rivalry
+  with fellow community hellsite.site
+override_language: false
+categories:
+- tech
+- lgbt
+languages:
+- en
+region: ''
+legal_body_type:

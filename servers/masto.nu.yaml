@@ -1,0 +1,12 @@
+---
+domain: masto.nu
+override_description: false
+description: General purpose Mastodon server. All languages are welcome but English,
+  Dutch and Spanish are preferred.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural

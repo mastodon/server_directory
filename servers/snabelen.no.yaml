@@ -1,0 +1,11 @@
+---
+domain: snabelen.no
+override_description: false
+description: Ein norsk heimstad for den desentraliserte mikroblogge-plattformen.
+override_language: false
+categories:
+- general
+languages:
+- 'no'
+region: europe
+legal_body_type: natural

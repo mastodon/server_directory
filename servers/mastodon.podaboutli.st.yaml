@@ -1,0 +1,13 @@
+---
+domain: mastodon.podaboutli.st
+override_description: false
+description: This server is sponsored by Podcast About List, a weekly comedy podcast.
+  It is a general-purpose instance for having fun with (and making new) friends online
+  :^)
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

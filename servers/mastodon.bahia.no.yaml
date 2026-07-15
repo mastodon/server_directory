@@ -1,0 +1,12 @@
+---
+domain: mastodon.bahia.no
+override_description: false
+description: Bahia.no - aqui, todo mundo é baiano! Se você é baiano de coração e for
+  da paz, também é bem-vindo!
+override_language: false
+categories:
+- regional
+languages:
+- pt
+region: europe
+legal_body_type: juridicial

@@ -1,0 +1,11 @@
+---
+domain: c7.io
+override_description: false
+description: 希奇！是一个轻松闲适的社区，一个远离有毒中文社交圈的创作者乐园。这里不会出卖您的数据，亦无复杂的算法与规则。愿您能在希奇！寻回属于『自己』的初心。
+override_language: true
+categories:
+- general
+languages:
+- zh
+region: north_america
+legal_body_type: natural

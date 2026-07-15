@@ -1,0 +1,11 @@
+---
+domain: aut.social
+override_description: false
+description: Die Instanz wird am 30.12.2024 den Betrieb einstellen.
+override_language: false
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

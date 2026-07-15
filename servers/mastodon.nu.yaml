@@ -1,0 +1,13 @@
+---
+domain: mastodon.nu
+override_description: false
+description: Mastodon.nu etablerades 2021 och är den största servern i Norden samt
+  öppen för alla. Den drivs ideellt på ett professionellt vis och med 100% förnybar
+  energi. Välkommen! Velkommen! Tervetuloa!
+override_language: true
+categories:
+- regional
+languages:
+- sv
+region: europe
+legal_body_type: natural

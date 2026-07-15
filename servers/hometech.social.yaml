@@ -1,0 +1,12 @@
+---
+domain: hometech.social
+override_description: false
+description: HomeTech.Social — Your friendly home on the fediverse for all things
+  home automation, all on a platform that is community-owned and ad-free.
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: natural

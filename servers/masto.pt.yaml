@@ -1,0 +1,11 @@
+---
+domain: masto.pt
+override_description: false
+description: Masto.pt é uma instância de Mastodon para residentes em Portugal.
+override_language: false
+categories:
+- regional
+languages:
+- pt
+region: europe
+legal_body_type: juridicial

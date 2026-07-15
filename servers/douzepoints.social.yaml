@@ -1,0 +1,13 @@
+---
+domain: douzepoints.social
+override_description: false
+description: An unofficial Mastodon server for fans of the Eurovision Song Contest
+  to discuss songs, shows, and everything related to the ESC. No affiliation with
+  the EBU; purely a non-commercial fan project.
+override_language: false
+categories:
+- music
+languages:
+- en
+region: europe
+legal_body_type: natural

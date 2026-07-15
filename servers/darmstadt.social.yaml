@@ -1,0 +1,12 @@
+---
+domain: darmstadt.social
+override_description: false
+description: Willkommen in der digitalen Darmstädter Nachbarschaft aus dem Rhein-Main-Gebiet
+  - komm doch mal auf einen Kaffee vorbei!
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

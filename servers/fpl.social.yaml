@@ -1,0 +1,13 @@
+---
+domain: fpl.social
+override_description: false
+description: "fpl.social is the first and only Mastodon server dedicated to the Fantasy
+  Premier League (FPL) football / soccer community. \r\n\r\nRun by FPL managers for
+  FPL managers.\r\n"
+override_language: false
+categories:
+- sports
+languages:
+- en
+region: europe
+legal_body_type: natural

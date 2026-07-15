@@ -1,0 +1,11 @@
+---
+domain: mastodon.se
+override_description: false
+description: Mastodon server aimed at Swedish users
+override_language: true
+categories:
+- regional
+languages:
+- sv
+region: europe
+legal_body_type: natural

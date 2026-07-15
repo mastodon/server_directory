@@ -1,0 +1,12 @@
+---
+domain: dmv.community
+override_description: false
+description: A small regional Mastodon instance for those in the DC, Maryland, and
+  Virginia areas. Local news, commentary, and conversation.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

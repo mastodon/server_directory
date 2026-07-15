@@ -1,0 +1,13 @@
+---
+domain: mastodon.wien
+override_description: false
+description: "Von und für Wiener*innen und Wien-Liebhaber*innen.\r\nMastodon ist eine
+  freie, quelloffene Software und eine Marke der Mastodon gGmbH. Mastodon.berlin ist
+  dem Mastodon Server-Abkommen verpflichtet "
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

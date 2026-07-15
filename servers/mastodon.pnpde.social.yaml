@@ -1,0 +1,12 @@
+---
+domain: mastodon.pnpde.social
+override_description: false
+description: 'Wir sind eine inklusive Mastodon-Community für alle Themen rund um Pen
+  and Paper und Rollenspiel, oder kurz: #pnpde'
+override_language: false
+categories:
+- games
+languages:
+- de
+region: europe
+legal_body_type: juridicial

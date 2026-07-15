@@ -1,0 +1,11 @@
+---
+domain: mastodon.vlaanderen
+override_description: false
+description: "De Vlaamse/Belgische Mastodon instance.\r\n\r\n  "
+override_language: false
+categories:
+- regional
+languages:
+- nl
+region: europe
+legal_body_type: natural

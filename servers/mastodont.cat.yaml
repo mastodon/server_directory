@@ -1,0 +1,11 @@
+---
+domain: mastodont.cat
+override_description: false
+description: "Dedicat a la llengua i a la cultura catalana.\r\n"
+override_language: false
+categories:
+- regional
+languages:
+- ca
+region: europe
+legal_body_type: natural

@@ -1,0 +1,12 @@
+---
+domain: mastodontti.fi
+override_description: false
+description: Tämä on ihmisille tarkoitettu suomenkielinen Mastodon-instanssi, jota
+  moderoidaan aktiivisesti.
+override_language: true
+categories:
+- general
+languages:
+- fi
+region: europe
+legal_body_type: natural

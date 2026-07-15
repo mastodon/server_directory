@@ -1,0 +1,12 @@
+---
+domain: aipi.social
+override_description: false
+description: "aipi ist Dienstleister in Sachen IT-Sicherheit und Kommunikation. Wir
+  bieten hier eine Kommunikationsmöglichkeit mit der Mastodon-Föderation an.\r\n"
+override_language: true
+categories:
+- general
+languages:
+- de
+region: ''
+legal_body_type:

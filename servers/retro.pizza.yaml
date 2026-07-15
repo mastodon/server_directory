@@ -1,0 +1,12 @@
+---
+domain: retro.pizza
+override_description: false
+description: A poly-fandom instance for nerds to talk about nerd culture. No Nazis,
+  no TERFs.
+override_language: false
+categories:
+- games
+languages:
+- en
+region: europe
+legal_body_type: natural

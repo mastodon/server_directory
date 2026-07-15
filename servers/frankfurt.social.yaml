@@ -1,0 +1,13 @@
+---
+domain: frankfurt.social
+override_description: false
+description: 'Willkommen bei der Frankfurter Mastodon-Instanz! Sie soll wie Frankfurt
+  sein: Im Herzen von Europa, offen, bunt und mit klarer Kante gegen Rassisums, Sexismus,
+  Homophobie und Transphobie.'
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: europe
+legal_body_type: natural

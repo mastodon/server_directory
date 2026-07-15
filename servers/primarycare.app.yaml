@@ -1,0 +1,12 @@
+---
+domain: primarycare.app
+override_description: false
+description: 'A place for those in the UK who work in Primary Care and their friends.
+  Hosted by iatro.health for the good of the NHS community. #TeamGP'
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural

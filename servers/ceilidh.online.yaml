@@ -1,0 +1,12 @@
+---
+domain: ceilidh.online
+override_description: false
+description: 'Ceilidh.Online is meant to be a safe gathering place for like-minded
+  people who want to participate in the #Fediverse.'
+override_language: false
+categories:
+- lgbt
+languages:
+- en
+region: north_america
+legal_body_type: natural

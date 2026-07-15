@@ -1,0 +1,12 @@
+---
+domain: universeodon.com
+override_description: false
+description: 'Be one with the #fediverse. Join millions of humans building, creating,
+  and collaborating on Mastodon Social Network. Supports 2000 character posts.'
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

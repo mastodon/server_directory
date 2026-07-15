@@ -1,0 +1,11 @@
+---
+domain: fedi.at
+override_description: false
+description: Der Mastodon Fediverse Server für Österreich.
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

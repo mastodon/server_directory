@@ -1,0 +1,13 @@
+---
+domain: rivals.space
+override_description: false
+description: "Serveur généraliste français, créé en 2018.\r\nGéré par des personnes
+  LGBTQIA+. Inclusivité et bienveillance en priorité. Modération active, à l’écoute,
+  espace respectueux garanti."
+override_language: true
+categories:
+- general
+languages:
+- fr
+region: europe
+legal_body_type: natural

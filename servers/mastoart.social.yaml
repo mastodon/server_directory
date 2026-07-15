@@ -1,0 +1,13 @@
+---
+domain: mastoart.social
+override_description: true
+description: mastoart.social is a creative space for you to share your art and be
+  part of a friendly creative community. A Mastodon server that's hosted in Germany
+  and runs on 100% green energy.
+override_language: false
+categories:
+- art
+languages:
+- en
+region: europe
+legal_body_type: natural

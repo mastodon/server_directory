@@ -1,0 +1,13 @@
+---
+domain: awscommunity.social
+override_description: false
+description: AWS (Amazon Web Services) Community-Focused Mastodon Server bringing
+  together a global user group. Not affiliated with Amazon, but interested in AWS
+  Technology.
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: natural

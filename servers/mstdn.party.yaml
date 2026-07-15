@@ -1,0 +1,12 @@
+---
+domain: mstdn.party
+override_description: false
+description: Mastodon Party is a general-purpose Mastodon instance. Welcome to the
+  fediverse!
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

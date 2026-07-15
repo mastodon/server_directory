@@ -1,0 +1,15 @@
+---
+domain: raphus.social
+override_description: false
+description: "Raphus Social \U0001F9A4 is a better bird site, a safe and inclusive
+  place for bringing together open minded people interested in technology, open source,
+  tabletop games, and other general geekery."
+override_language: false
+categories:
+- general
+- games
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: natural

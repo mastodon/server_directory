@@ -1,0 +1,13 @@
+---
+domain: mastorock.com
+override_description: false
+description: "Servidor de Mastorock para amantes de la música \U0001F3B5. Todos los
+  géneros son bienvenidos."
+override_language: true
+categories:
+- music
+- general
+languages:
+- es
+region: europe
+legal_body_type: natural

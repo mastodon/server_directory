@@ -1,0 +1,14 @@
+---
+domain: ani.work
+override_description: false
+description: "This is Aniwork Network, which aims to discuss animation.\r\nWe welcome
+  animations from all over the world. (Maintained by Elysia Root L.C.)"
+override_language: false
+categories:
+- games
+languages:
+- ko
+- en
+- ja
+region: asia
+legal_body_type: juridicial

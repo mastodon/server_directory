@@ -1,0 +1,13 @@
+---
+domain: mastodon.celticpaganism.org
+override_description: false
+description: A Mastodon server on the topics of Celtic Paganism, Mythology, Anthropology,
+  and the study of these to arrive at a practice of devotional polytheism aimed at
+  Irish, Welsh, Manx, and Gaulish deities.
+override_language: false
+categories:
+- academia
+languages:
+- en
+region: north_america
+legal_body_type: natural

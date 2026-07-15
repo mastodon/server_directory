@@ -1,0 +1,11 @@
+---
+domain: social.seattle.wa.us
+override_description: true
+description: A server for people who live in the Seattle region.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

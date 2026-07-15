@@ -1,0 +1,13 @@
+---
+domain: science.social
+override_description: false
+description: Science.Social is a social media platform for anyone with an interest
+  in science(scientists, researchers, etc) built on a decentralized, private, and
+  secure platform.
+override_language: false
+categories:
+- academia
+languages:
+- en
+region: north_america
+legal_body_type: natural

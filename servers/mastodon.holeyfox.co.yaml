@@ -1,0 +1,11 @@
+---
+domain: mastodon.holeyfox.co
+override_description: false
+description: A Mastodon instance for Nigerians. Everyone is welcome.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: africa
+legal_body_type: natural

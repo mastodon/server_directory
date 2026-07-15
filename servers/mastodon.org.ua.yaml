@@ -1,0 +1,11 @@
+---
+domain: mastodon.org.ua
+override_description: false
+description: Мабуть, найбільший україномовний Mastadon-сервер у світі.
+override_language:
+categories:
+- regional
+languages:
+- uk
+region: ''
+legal_body_type:

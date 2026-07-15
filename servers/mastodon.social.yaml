@@ -1,0 +1,12 @@
+---
+domain: mastodon.social
+override_description: false
+description: "The original server of Mastodon, operated by Mastodon GmbH for the common
+  good.\r\n\r\n"
+override_language: false
+categories:
+- general
+languages:
+- en
+region: ''
+legal_body_type:

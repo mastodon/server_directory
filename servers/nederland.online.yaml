@@ -1,0 +1,12 @@
+---
+domain: nederland.online
+override_description: false
+description: De oerrr-Hollandse community voor online Nederlanders!
+override_language: true
+categories:
+- general
+- regional
+languages:
+- nl
+region: europe
+legal_body_type: natural

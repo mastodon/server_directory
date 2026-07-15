@@ -1,0 +1,11 @@
+---
+domain: cosocial.ca
+override_description: false
+description: Cooperative-run social media server for Canada. Join at join.cosocial.ca
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

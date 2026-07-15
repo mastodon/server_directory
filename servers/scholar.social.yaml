@@ -1,0 +1,13 @@
+---
+domain: scholar.social
+override_description: false
+description: Microblogging for researchers, grad students, librarians, archivists,
+  undergrads, high schoolers, educators, research assistants, profs—anyone involved
+  in learning who engages with others respectfully
+override_language: false
+categories:
+- academia
+languages:
+- en
+region: ''
+legal_body_type:

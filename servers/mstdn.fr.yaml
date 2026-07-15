@@ -1,0 +1,11 @@
+---
+domain: mstdn.fr
+override_description: false
+description: ''
+override_language: true
+categories:
+- general
+languages:
+- fr
+region: ''
+legal_body_type:

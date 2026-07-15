@@ -1,0 +1,12 @@
+---
+domain: sfba.social
+override_description: false
+description: A Mastodon instance for the San Francisco Bay Area. Come on in and join
+  us!
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

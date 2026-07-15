@@ -1,0 +1,13 @@
+---
+domain: dju.social
+override_description: false
+description: Die Deutsche Journalistinnen- und Journalisten-Union (dju) in ver.di
+  bietet hier einen Raum für Medienmenschen und alle, die an einem freundlichen und
+  konstruktiven Austausch interessiert sind.
+override_language: true
+categories:
+- journalism
+languages:
+- de
+region: europe
+legal_body_type: juridicial

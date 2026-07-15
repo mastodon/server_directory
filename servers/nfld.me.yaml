@@ -1,0 +1,11 @@
+---
+domain: nfld.me
+override_description: false
+description: Newfoundland and Labrador's Mastodon Server
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

@@ -1,0 +1,12 @@
+---
+domain: okla.social
+override_description: false
+description: 'A regional server for those in Oklahoma. We welcome all though so come
+  on over and give us a try. '
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: north_america
+legal_body_type: natural

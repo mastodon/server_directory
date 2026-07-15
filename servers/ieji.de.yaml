@@ -1,0 +1,14 @@
+---
+domain: ieji.de
+override_description: false
+description: ieji.de is a generalistic mastodon instance, with the goal of being the
+  fastest and most privacy-focused mastodon instance, like being usable via the tor
+  network and hosted France.
+override_language: true
+categories:
+- general
+languages:
+- en
+- de
+region: europe
+legal_body_type: natural

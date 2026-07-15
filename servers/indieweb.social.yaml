@@ -1,0 +1,12 @@
+---
+domain: indieweb.social
+override_description: false
+description: 'INDIEWEB.SOCIAL is an instance focused on the evolution of #Openweb,
+  #Indieweb, #Fediverse, #Mastodon, #Humanetech and #Calm technologies. '
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: natural

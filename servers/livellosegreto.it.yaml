@@ -1,0 +1,11 @@
+---
+domain: livellosegreto.it
+override_description: false
+description: Livello Segreto è il social etico che ha rispetto di te e del tuo tempo.
+override_language: true
+categories:
+- general
+languages:
+- it
+region: europe
+legal_body_type: natural

@@ -1,0 +1,14 @@
+---
+domain: tictoc.social
+override_description: false
+description: Welcome to tictoc.social! A Western Australian based and completely independent
+  Mastodon community. To discuss all things, "social". Travel, photography, things
+  to do and see, places to go.
+override_language: false
+categories:
+- general
+- regional
+languages:
+- en
+region: oceania
+legal_body_type: natural

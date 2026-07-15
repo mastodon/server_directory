@@ -1,0 +1,12 @@
+---
+domain: federated.press
+override_description: false
+description: A Mastodon community for information and journalism. Please click "About"
+  and read our rules and Code of Ethics before applying.
+override_language: false
+categories:
+- journalism
+languages:
+- en
+region: north_america
+legal_body_type: natural

@@ -1,0 +1,13 @@
+---
+domain: tooters.org
+override_description: false
+description: Tooters is a New York and Puerto Rico based, queer owned and operated
+  Mastodon instance providing a safe and moderated space on the fediverse for everyone
+  under the rainbow.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

@@ -1,0 +1,12 @@
+---
+domain: c.im
+override_description: false
+description: C.IM is an independent, EU-hosted Mastodon server for open-minded, English-speaking
+  users across the fediverse.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural

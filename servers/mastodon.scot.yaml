@@ -1,0 +1,12 @@
+---
+domain: mastodon.scot
+override_description: false
+description: A server intended for (but not limited to) users in Scotland or who identify
+  as Scottish.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: europe
+legal_body_type: natural

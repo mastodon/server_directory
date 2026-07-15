@@ -1,0 +1,13 @@
+---
+domain: chatbox.social
+override_description: false
+description: "Fun and up-to-date Mastodon server open to everyone. Sign up, introduce
+  yourself, follow people and they'll follow you back - Yes, people are nice. it's
+  a Mastodon thing \U0001F970\r\n"
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

@@ -1,0 +1,12 @@
+---
+domain: mastodonners.nl
+override_description: false
+description: Mastodonners is een Nederlandse Mastodon server, voor de Nederlandse
+  en Belgische community. Wij zijn tevens via mastodonners.be te bereiken.
+override_language: true
+categories:
+- general
+languages:
+- nl
+region: europe
+legal_body_type: natural

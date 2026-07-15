@@ -1,0 +1,12 @@
+---
+domain: gensokyo.town
+override_description: false
+description: 東方Projectが好きな人達が集まるマストドンサーバーです。This is a mastodon server for people who
+  like Touhou Project. Since 2017/12/22
+override_language: true
+categories:
+- games
+languages:
+- ja
+region: asia
+legal_body_type: natural

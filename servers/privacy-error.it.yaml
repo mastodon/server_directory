@@ -1,0 +1,12 @@
+---
+domain: privacy-error.it
+override_description: false
+description: In questa istanza parliamo di privacy digitale, sicurezza su internet,
+  software open source e informatica.
+override_language: true
+categories:
+- tech
+languages:
+- it
+region: ''
+legal_body_type:

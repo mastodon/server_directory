@@ -1,0 +1,12 @@
+---
+domain: epicure.social
+override_description: false
+description: A Mastodon community with a food and wine focus. Mainly English speaking,
+  open to all epicurians.
+override_language: false
+categories:
+- food
+languages:
+- en
+region: europe
+legal_body_type: natural

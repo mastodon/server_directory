@@ -1,0 +1,11 @@
+---
+domain: social.anoxinon.de
+override_description: false
+description: Die offizielle Mastodon Instanz des Vereins Anoxinon e.V.
+override_language: false
+categories:
+- general
+languages:
+- de
+region: europe
+legal_body_type: juridicial

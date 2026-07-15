@@ -1,0 +1,12 @@
+---
+domain: humanist.social
+override_description: false
+description: Humanist.social - a general-purpose Mastodon instance for humanists and
+  free thinkers. Open to all! [Operated by Honeytree Technologies]
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: juridicial

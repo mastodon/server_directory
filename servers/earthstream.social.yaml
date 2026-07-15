@@ -1,0 +1,13 @@
+---
+domain: earthstream.social
+override_description: false
+description: earthstream federated social server running Mastodon - focus on environmental,
+  trade, human rights, and other social and global issues
+override_language: false
+categories:
+- tech
+- activism
+languages:
+- en
+region: north_america
+legal_body_type: natural

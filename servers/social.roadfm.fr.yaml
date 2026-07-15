@@ -1,0 +1,13 @@
+---
+domain: social.roadfm.fr
+override_description: false
+description: Bienvenue sur l'instance Mastodon de l'Association Road FM. Ce serveur
+  réunit les personnes de tous horizons. Rejoignez la discussion !Vos données sont
+  entre de bonnes mains.
+override_language: false
+categories:
+- general
+languages:
+- fr
+region: europe
+legal_body_type: juridicial

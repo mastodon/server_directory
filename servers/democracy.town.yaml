@@ -1,0 +1,12 @@
+---
+domain: democracy.town
+override_description: false
+description: 'A United States-based Mastodon community run by and for progressives. '
+override_language: false
+categories:
+- activism
+- general
+languages:
+- en
+region: ''
+legal_body_type:

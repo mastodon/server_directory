@@ -1,0 +1,12 @@
+---
+domain: mastodon-belgium.be
+override_description: false
+description: This server is provided free of charge to all Mastodon users but aims
+  specifically at users in Belgium.
+override_language: false
+categories:
+- regional
+languages:
+- nl
+region: europe
+legal_body_type: natural

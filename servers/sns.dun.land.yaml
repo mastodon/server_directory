@@ -1,0 +1,11 @@
+---
+domain: sns.dun.land
+override_description: false
+description: 환영합니다! DUN LAND에서 관리하는 마스토돈 서버로 자유로운 주제로 소통하실 수 있어요.
+override_language: false
+categories:
+- general
+languages:
+- ko
+region: asia
+legal_body_type: natural

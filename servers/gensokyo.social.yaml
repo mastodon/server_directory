@@ -1,0 +1,12 @@
+---
+domain: gensokyo.social
+override_description: false
+description: "A generalistic mastodon instance seeking to host Touhou (and other shootemup)
+  fans!\r\n"
+override_language: false
+categories:
+- games
+languages:
+- en
+region: ''
+legal_body_type:

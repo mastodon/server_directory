@@ -1,0 +1,13 @@
+---
+domain: theblower.au
+override_description: false
+description: "Do you need to sort it out? Get on The Blower, a public social network
+  site that's part of a global federation! Give it a go!\r\n\r\nYou don't have to
+  be Australian to post here, but it helps."
+override_language: false
+categories:
+- general
+languages:
+- en
+region: oceania
+legal_body_type: natural

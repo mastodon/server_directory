@@ -1,0 +1,12 @@
+---
+domain: queer.party
+override_description: false
+description: A silly instance of Mastodon for queer folk and non-queer folk alike.
+  Let's be friends!
+override_language: false
+categories:
+- lgbt
+languages:
+- en
+region: ''
+legal_body_type:

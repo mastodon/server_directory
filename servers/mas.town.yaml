@@ -1,0 +1,13 @@
+---
+domain: mas.town
+override_description: false
+description: 'mas.town is a social media alternative focused on robust and responsible
+  public dialogue. All information hosted in the USA and housed on AWS for data security,
+  privacy, and resiliency. '
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

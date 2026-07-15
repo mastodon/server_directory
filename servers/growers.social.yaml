@@ -1,0 +1,13 @@
+---
+domain: growers.social
+override_description: false
+description: Welcome to Growers Social, the perfect online community for green thumb
+  enthusiasts! Whether you're a gardening pro an amateur grower or a newbie farmer,
+  Come grow with us! We also love cats here.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

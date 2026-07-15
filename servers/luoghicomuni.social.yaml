@@ -1,0 +1,12 @@
+---
+domain: luoghicomuni.social
+override_description: false
+description: Luoghi Comuni è una istanza generalista Toscana ideata per condividere
+  e discutere in maniera libera e costruttiva
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: europe
+legal_body_type: natural

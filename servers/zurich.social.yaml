@@ -1,0 +1,11 @@
+---
+domain: zurich.social
+override_description: false
+description: Local server for Zurich.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: europe
+legal_body_type: natural

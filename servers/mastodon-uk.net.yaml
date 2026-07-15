@@ -1,0 +1,12 @@
+---
+domain: mastodon-uk.net
+override_description: false
+description: 'A UK based and hosted general server with a UK bias, run by Brits for
+  Brits, but all welcome! '
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural

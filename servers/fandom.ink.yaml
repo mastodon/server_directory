@@ -1,0 +1,12 @@
+---
+domain: fandom.ink
+override_description: false
+description: fandom.ink is a small, community supported instance for lovers of fanfic,
+  fan art, fan meta/acafandom, fannish communities, and blorbos of all kinds.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: ''
+legal_body_type:

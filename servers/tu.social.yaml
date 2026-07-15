@@ -1,0 +1,12 @@
+---
+domain: tu.social
+override_description: false
+description: "Servidor en español para la gente del mundo tech. \r\n\r\nInspirado
+  en Tuenti y gestionado por algunos de sus ex-ingenieros."
+override_language: true
+categories:
+- tech
+languages:
+- es
+region: europe
+legal_body_type: natural

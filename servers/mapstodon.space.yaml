@@ -1,0 +1,12 @@
+---
+domain: mapstodon.space
+override_description: false
+description: Mapstodon.space is an online community dedicated to cartography & geospatial.
+override_language: false
+categories:
+- academia
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

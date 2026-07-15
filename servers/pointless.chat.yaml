@@ -1,0 +1,11 @@
+---
+domain: pointless.chat
+override_description: false
+description: 반가워요! 항상 즐겁고 새로움이 가득한 소셜 네트워크, 포인트리스에 어서오세요!
+override_language: true
+categories:
+- general
+languages:
+- ko
+region: asia
+legal_body_type: natural

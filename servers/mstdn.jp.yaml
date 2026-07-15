@@ -1,0 +1,11 @@
+---
+domain: mstdn.jp
+override_description: false
+description: "Mastodon日本鯖です．\r\nよろしくお願いいたします。\r\n\r\n(Maintained by Sujitech, LLC)"
+override_language: true
+categories:
+- general
+languages:
+- ja
+region: asia
+legal_body_type: juridicial

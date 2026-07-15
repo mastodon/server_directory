@@ -1,0 +1,13 @@
+---
+domain: troet.fediverse.at
+override_description: false
+description: Die Instanz für engagierte Menschen und kritische Geister mit Österreich-Bezug
+  - unabhängig von Wohnort oder Staatsbürgerschaft. Persönlich & nutzerfinanziert,
+  Betreiber ist Ingo Lantschner.
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

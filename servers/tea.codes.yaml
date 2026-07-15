@@ -1,0 +1,11 @@
+---
+domain: tea.codes
+override_description: false
+description: "茶码：\r\n结庐在人境，而无车马喧"
+override_language: true
+categories:
+- general
+languages:
+- zh
+region: asia
+legal_body_type: natural

@@ -1,0 +1,18 @@
+---
+domain: burma.social
+override_description: false
+description: "Burma Social.\r\nOur platform is free from censorship and we do not
+  engage in advertising or promotion. Our aim is to provide a free and open environment."
+override_language: true
+categories:
+- regional
+languages:
+- my
+- rhg
+- shn
+- kar
+- kac
+- ta
+- mnw
+region: asia
+legal_body_type: natural

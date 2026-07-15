@@ -1,0 +1,13 @@
+---
+domain: occitania.social
+override_description: false
+description: "Servidor creat tà aufrir as occitans a amics un espaci pròpri en hilat
+  sociau de Mastodon.\r\n\r\nEth hilat sociau deth futur, sense publicitat, hèt pes
+  joeni, tàs joeni damb un servidor de proximitat."
+override_language: false
+categories:
+- regional
+languages:
+- oc
+region: europe
+legal_body_type: juridicial

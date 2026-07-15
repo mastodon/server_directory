@@ -1,0 +1,11 @@
+---
+domain: netsphere.one
+override_description: false
+description: IT, SDI, SDDC.
+override_language: false
+categories:
+- tech
+languages:
+- ko
+region: asia
+legal_body_type: juridicial

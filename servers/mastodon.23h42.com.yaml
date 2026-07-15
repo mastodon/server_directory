@@ -1,0 +1,13 @@
+---
+domain: mastodon.23h42.com
+override_description: false
+description: 23h42 est une instance Mastodon française spécialisée dans la technologie
+  pour les passionnés de l'open source, du libre et de l'auto-hébergement. Cette instance
+  offre un espace sûr pour les utilisat
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

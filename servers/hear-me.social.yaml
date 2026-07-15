@@ -1,0 +1,13 @@
+---
+domain: hear-me.social
+override_description: false
+description: Administration is in Boston, MA, but we're open to all. Posting size
+  is 12K characters because you have interesting things to say. Threads federating.
+  Disposable email addresses are not allowed.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

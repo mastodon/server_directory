@@ -1,0 +1,12 @@
+---
+domain: urusai.social
+override_description: false
+description: A friendly and non-toxic English-first Mastodon community for anime,
+  manga, and other otaku subjects.
+override_language: false
+categories:
+- games
+languages:
+- en
+region: north_america
+legal_body_type: natural

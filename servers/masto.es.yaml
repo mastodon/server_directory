@@ -1,0 +1,12 @@
+---
+domain: masto.es
+override_description: false
+description: Bienvenidos a masto.es, el mayor servidor de Mastodon para hispanohablantes
+  de temática general.
+override_language: false
+categories:
+- general
+languages:
+- es
+region: europe
+legal_body_type: natural

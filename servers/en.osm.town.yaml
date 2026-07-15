@@ -1,0 +1,12 @@
+---
+domain: en.osm.town
+override_description: false
+description: "An independent, community of OpenStreetMap people on the Fediverse/Mastodon.\r\n\r\n\r\nFunding
+  graciously provided by the OpenStreetMap Foundation."
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: europe
+legal_body_type: natural

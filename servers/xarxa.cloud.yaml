@@ -1,0 +1,13 @@
+---
+domain: xarxa.cloud
+override_description: false
+description: "Un node al Fedivers amb l'objectiu d'agrupar activistes i col·lectius
+  socials.\r\n\r\nUn nodo no Fediverso co obxectivo de agrupar activistas e colectivos
+  sociais.\r\n\r\nNo guardamos logs."
+override_language: true
+categories:
+- regional
+languages:
+- ca
+region: europe
+legal_body_type: natural

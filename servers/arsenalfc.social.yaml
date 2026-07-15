@@ -1,0 +1,12 @@
+---
+domain: arsenalfc.social
+override_description: false
+description: 'ArsenalFC.social is the world''s FIRST and ONLY Arsenal Football Club-specific
+  Mastodon Server - run BY Gooners FOR Gooners. '
+override_language: false
+categories:
+- sports
+languages:
+- en
+region: europe
+legal_body_type: natural

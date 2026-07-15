@@ -1,0 +1,12 @@
+---
+domain: sciences.social
+override_description: false
+description: Non-profit, ad-free social media for social scientists. Join thousands
+  of social scientists here and across the fediverse.
+override_language: false
+categories:
+- academia
+languages:
+- en
+region: north_america
+legal_body_type: natural

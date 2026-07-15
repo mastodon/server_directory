@@ -1,0 +1,12 @@
+---
+domain: h4.io
+override_description: false
+description: h4.io est une instance Mastodon française, généraliste et stable. Inscris-toi,
+  présente-toi et découvre simplement de nouvelles personnes !
+override_language: true
+categories:
+- general
+languages:
+- fr
+region: europe
+legal_body_type: natural

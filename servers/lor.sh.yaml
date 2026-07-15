@@ -1,0 +1,13 @@
+---
+domain: lor.sh
+override_description: false
+description: lor.sh is shutting down soon.
+override_language: true
+categories:
+- general
+languages:
+- ru
+- en
+- fr
+region: europe
+legal_body_type: natural

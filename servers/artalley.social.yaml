@@ -1,0 +1,12 @@
+---
+domain: artalley.social
+override_description: false
+description: A community for artists, commissioners, and those who like art. Must
+  be 18+
+override_language:
+categories:
+- art
+languages:
+- en
+region: ''
+legal_body_type:

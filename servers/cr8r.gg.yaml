@@ -1,0 +1,12 @@
+---
+domain: cr8r.gg
+override_description: false
+description: A community for all types of creators, those who consume the creations
+  & everyone else (except for automated/bot accounts, they are highly discouraged).
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural

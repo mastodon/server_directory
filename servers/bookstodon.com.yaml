@@ -1,0 +1,12 @@
+---
+domain: bookstodon.com
+override_description: false
+description: "A place for bibliophiles, bookworms, book lovers, and all things bookish
+  \U0001F4DA\U0001F4DA\U0001F4DA hosted by Thunderhost.com \U0001F4DA\U0001F4DA\U0001F4DA"
+override_language: false
+categories:
+- books
+languages:
+- en
+region: north_america
+legal_body_type: natural

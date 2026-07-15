@@ -1,0 +1,13 @@
+---
+domain: hachyderm.io
+override_description: false
+description: Hachyderm is a safe space, LGBTQIA+ and BLM, primarily comprised of tech
+  industry professionals world wide. Note that many non-user account types have restrictions
+  - please see our About page.
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: natural

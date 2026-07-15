@@ -1,0 +1,12 @@
+---
+domain: mountains.social
+override_description: false
+description: Mastodon instance focusing on hiking, mountaineering, climbing, backpacking
+  and the outdoors.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural

@@ -1,0 +1,12 @@
+---
+domain: mastouille.fr
+override_description: false
+description: Mastouille est une instance Mastodon durable, ouverte, et hébergée en
+  France.
+override_language: true
+categories:
+- general
+languages:
+- fr
+region: europe
+legal_body_type: natural

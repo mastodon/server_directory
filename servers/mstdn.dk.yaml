@@ -1,0 +1,15 @@
+---
+domain: mstdn.dk
+override_description: false
+description: "Just your average friendly Danish Mastodon server.\r\nNew users tooting
+  in Danish/English welcome.\r\nAdministered from Denmark. Hosted on bare-metal Kubernetes
+  in the EU.\r\n"
+override_language: true
+categories:
+- general
+- regional
+languages:
+- en
+- da
+region: europe
+legal_body_type: natural

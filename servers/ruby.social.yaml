@@ -1,0 +1,13 @@
+---
+domain: ruby.social
+override_description: false
+description: "If you are interested in the Ruby programming language, come join us!
+  Tell us about yourself when signing up.\r\n\r\nIf you just want to join Mastodon,
+  another server will be a better place for you."
+override_language: false
+categories:
+- tech
+languages:
+- en
+region: north_america
+legal_body_type: natural

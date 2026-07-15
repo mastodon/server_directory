@@ -1,0 +1,12 @@
+---
+domain: mstdn.plus
+override_description: false
+description: MSTDN+ is a general-purpose Mastodon instance which prohibits NSFW content.
+  Welcome to the fediverse!
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: juridicial

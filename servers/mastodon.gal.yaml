@@ -1,0 +1,11 @@
+---
+domain: mastodon.gal
+override_description: false
+description: mastodon.gal é un servidor en galego de Mastodon para a comunidade galega.
+override_language: false
+categories:
+- regional
+languages:
+- gl
+region: europe
+legal_body_type: natural

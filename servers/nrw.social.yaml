@@ -1,0 +1,12 @@
+---
+domain: nrw.social
+override_description: false
+description: Wir sind eine freundliche Mastodon Instanz aus Nordrhein-Westfalen. Ob
+  NRW'ler oder NRW-Sympathifanten, jeder ist hier willkommen.
+override_language: true
+categories:
+- regional
+languages:
+- de
+region: europe
+legal_body_type: natural

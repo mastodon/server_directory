@@ -1,0 +1,13 @@
+---
+domain: kanoa.de
+override_description: false
+description: Eine deutschsprachige Mastodon Instanz um neue Leute kennenzulernen und
+  Spaß zu haben. "ka noa" ist hawaiisch und bedeutet "die Freiheit". Ein Service von
+  adminForge.de
+override_language: true
+categories:
+- tech
+languages:
+- de
+region: europe
+legal_body_type: natural

@@ -1,0 +1,11 @@
+---
+domain: mastodon.mnetwork.co.kr
+override_description: false
+description: mNetwork Mastodon은 mNetwork OÜ에서 운영하는 자유롭게 다양한 주제를 나누는 마스토돈 인스턴스입니다.
+override_language: true
+categories:
+- general
+languages:
+- ko
+region: asia
+legal_body_type: natural

@@ -1,0 +1,12 @@
+---
+domain: pups.social
+override_description: false
+description: "A slice of the internet for dog people \U0001F415"
+override_language: false
+categories:
+- furry
+- adult
+languages:
+- en
+region: ''
+legal_body_type:

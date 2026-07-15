@@ -1,0 +1,11 @@
+---
+domain: mastodon.me.uk
+override_description: false
+description: Open, user-supported, corporation-free social networking for the UK.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: ''
+legal_body_type:

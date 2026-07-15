@@ -1,0 +1,11 @@
+---
+domain: lounge.town
+override_description: false
+description: A chill server for folks to hang out.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: north_america
+legal_body_type: natural

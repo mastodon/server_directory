@@ -1,0 +1,11 @@
+---
+domain: glasgow.social
+override_description: false
+description: A place for communities in and around Glasgow, Scotland.
+override_language: false
+categories:
+- regional
+languages:
+- en
+region: europe
+legal_body_type: natural

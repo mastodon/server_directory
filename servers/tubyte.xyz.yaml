@@ -1,0 +1,11 @@
+---
+domain: tubyte.xyz
+override_description: false
+description: Instancia en Español para propósito general. Tu mejor alternativa a Twitter.
+override_language: false
+categories:
+- general
+languages:
+- en
+region: europe
+legal_body_type: natural
