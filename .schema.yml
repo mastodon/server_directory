@@ -1,0 +1,46 @@
+type: object,
+properties:
+  domain:
+    type: string,
+  override_description:
+    type: boolean,
+  description:
+    type: string,
+  override_language:
+    type: boolean,
+  categories:
+    enum:
+      - academia
+      - activism
+      - adult
+      - art
+      - books
+      - food
+      - furry
+      - games
+      - general
+      - hobby
+      - humor
+      - journalism
+      - lgbt
+      - music
+      - bipoc
+      - regional
+      - religion
+      - sports
+      - tech
+  languages:
+    type: string,
+  region:
+    enum:
+      - europe
+      - north_america
+      - south_america
+      - africa
+      - asia
+      - oceania
+  legal_body_type:
+    enum:
+      - natural
+      - juridicial
+additionalProperties: false
