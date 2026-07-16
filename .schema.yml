@@ -1,36 +1,49 @@
-type: object,
+type: object
+required:
+  - domain
+  - override_description
+  - description
+  - categories
+  - languages
+  - region
 properties:
   domain:
-    type: string,
+    type: string
   override_description:
-    type: boolean,
+    type: boolean
   description:
-    type: string,
+    type: string
   override_language:
-    type: boolean,
+    anyOf:
+      - type: boolean
+      - type: "null"
   categories:
-    enum:
-      - academia
-      - activism
-      - adult
-      - art
-      - books
-      - food
-      - furry
-      - games
-      - general
-      - hobby
-      - humor
-      - journalism
-      - lgbt
-      - music
-      - bipoc
-      - regional
-      - religion
-      - sports
-      - tech
+    type: array
+    items:
+      enum:
+        - academia
+        - activism
+        - adult
+        - art
+        - books
+        - food
+        - furry
+        - games
+        - general
+        - hobby
+        - humor
+        - journalism
+        - lgbt
+        - music
+        - bipoc
+        - regional
+        - religion
+        - sports
+        - tech
   languages:
-    type: string,
+    type: array
+    items:
+      type: string
   region:
     enum:
       - europe
@@ -39,8 +52,10 @@ properties:
       - africa
       - asia
       - oceania
+      - ''
   legal_body_type:
     enum:
       - natural
       - juridicial
+      - null
 additionalProperties: false

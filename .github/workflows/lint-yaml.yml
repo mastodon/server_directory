@@ -3,7 +3,7 @@ run-name: ${{ github.actor }} is testing out yaml linter 🚀
 on: [push]
 
 jobs:
-  Lint:
+  yaml-Lint:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
