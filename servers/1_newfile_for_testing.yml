@@ -1,11 +1,10 @@
 ---
-domain: test.com
-override_description: true
-description: cats cats cats
-override_language: false
+domain:
+override_description: nein
+description:
+override_language: nein
 categories:
-- games
+- cats
 languages:
-- en
-region: north_america
-legal_body_type:
+region: catland
+legal_body_type: aristocaty
