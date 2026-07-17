@@ -1,4 +1,5 @@
 ---
+# this file should cause schema validator errors on all 8 fields
 domain:
 override_description: nein
 description:

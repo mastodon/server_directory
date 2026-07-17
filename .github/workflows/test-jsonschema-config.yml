@@ -1,0 +1,38 @@
+name: test json schema validator
+on: [push]
+
+jobs:
+  test-schema-validator-config:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v7
+
+      - name: Install check-jsonschema
+        run: pip install check-jsonschema
+
+      - name: Check-valid-jsonschema
+        run: check-jsonschema --schemafile .schema.yml test_data/valid_files/*
+
+      - name: Check-error-jsonschema
+        run: check-jsonschema --schemafile .schema.yml test_data/erroneous_files/*
+        continue-on-error: true
+
+  Lint-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v7
+
+      - name: Lint valid yaml files
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          file_or_dir: test_data/valid_files
+          format: github
+
+      - name: Lint erroneous yaml files
+        continue-on-error: true
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          file_or_dir: test_data/to_not_pass_linting.yml
+          format: github
