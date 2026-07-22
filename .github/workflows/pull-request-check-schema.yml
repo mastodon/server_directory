@@ -1,0 +1,27 @@
+name: PR Check schema
+on: [push]
+
+jobs:
+  Schema-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v7
+
+      - name: Install check-jsonschema
+        run: pip install check-jsonschema
+
+      - name: Run Check-jsonschema
+        run: check-jsonschema --schemafile .schema.yml servers/*
+
+  Lint-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v7
+
+      - name: Lint yaml files
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          file_or_dir: servers/*
+          format: github
