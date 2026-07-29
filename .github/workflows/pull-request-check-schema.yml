@@ -1,5 +1,9 @@
-name: PR Check schema
-on: [push]
+---
+name: Push Check schema
+on:
+  push:
+    paths:
+      - 'servers/**'
 
 jobs:
   Schema-validation:
@@ -7,12 +11,35 @@ jobs:
     steps:
       - name: Clone repository
         uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: echo first commit
+        run: |
+          echo ${{ github.event.before }}
+
+      - name: get changed files from server directory
+        id: getfile
+        run: |
+          if [ $GITHUB_BASE_REF ]; then
+            git fetch origin $GITHUB_BASE_REF --depth=1
+            echo "files=$(git diff --name-only origin/$GITHUB_BASE_REF ${{ github.sha }}  | grep '^servers/' | xargs)" >> $GITHUB_OUTPUT
+          elif [ ${{ github.event.before }} == '0000000000000000000000000000000000000000' ]; then
+            echo "files=$(git diff-tree --no-commit-id --name-only -r ${{ github.sha }} | grep '^servers/' | xargs)" >> $GITHUB_OUTPUT
+          else
+            git fetch origin ${{ github.event.before }} --depth=1
+            echo "files=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^servers/'| xargs)" >> $GITHUB_OUTPUT
+          fi
+
+      - name: echo output
+        run: |
+          echo ${{ steps.getfile.outputs.files }}
 
       - name: Install check-jsonschema
         run: pip install check-jsonschema
 
       - name: Run Check-jsonschema
-        run: check-jsonschema --schemafile .schema.yml servers/*
+        run: check-jsonschema --schemafile .schema.yml ${{ steps.getfile.outputs.files }}
 
   Lint-yaml:
     runs-on: ubuntu-latest
@@ -23,5 +50,5 @@ jobs:
       - name: Lint yaml files
         uses: ibiqlik/action-yamllint@v3
         with:
-          file_or_dir: servers/*
+          file_or_dir: ${{ steps.getfile.outputs.files }}
           format: github
