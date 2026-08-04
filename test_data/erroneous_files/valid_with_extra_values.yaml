@@ -1,9 +1,7 @@
 ---
-# this file should pass schema validation on all fields
+# this file should fail schema validation with extra fields
 domain: cat.land
-override_description: no
 description: a server where cats can share cute pictures of their humans
-override_language: no
 categories:
 - food
 - furry

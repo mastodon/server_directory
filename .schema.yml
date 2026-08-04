@@ -1,20 +1,13 @@
 type: object
 required:
 - domain
-- override_description
-- description
 - categories
-- languages
 - region
 properties:
   domain:
     type: string
-  override_description:
-    type: boolean
   description:
     type: string
-  override_language:
-    type: boolean
   categories:
     type: array
     items:
