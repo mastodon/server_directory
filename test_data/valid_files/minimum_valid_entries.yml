@@ -1,11 +1,6 @@
 ---
 # this file should pass schema validation on all fields
 domain: test.domain
-override_description: false
-description: test test
-override_language:
 categories:
 - games
-languages: []
-region: ''
-legal_body_type:
+region: europe

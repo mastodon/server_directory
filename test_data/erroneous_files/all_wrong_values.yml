@@ -1,9 +1,7 @@
 ---
-# this file should cause schema validator errors on all 8 fields
+# this file should cause schema validator errors on all 6 fields
 domain:
-override_description: nein
 description:
-override_language: nein
 categories:
 - cats
 languages:

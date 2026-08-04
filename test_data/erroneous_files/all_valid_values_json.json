@@ -1,9 +1,7 @@
 ---
 // this file should not pass schema validation with wrong file type
 domain: cat.land
-override_description: no
 description: a server where cats can share cute pictures of their humans
-override_language: no
 categories:
 - food
 - furry
