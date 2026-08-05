@@ -1,13 +1,4 @@
 ---
 domain: mspsocial.net
-override_description: false
-description: A community centered on the Twin Cities of Minneapolis and St. Paul,
-  Minnesota, and their surrounding region. Predominantly queer with a focus on urban
-  and social justice issues.
-override_language:
 categories:
 - regional
-languages:
-- en
-region: ''
-legal_body_type:

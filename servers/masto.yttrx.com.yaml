@@ -1,11 +1,6 @@
 ---
 domain: masto.yttrx.com
-override_description: false
-description: A community of Mastodon enthusiasts run by friends
-override_language: false
 categories:
 - general
-languages:
-- en
 region: north_america
 legal_body_type: natural

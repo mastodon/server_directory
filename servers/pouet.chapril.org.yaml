@@ -1,11 +1,8 @@
 ---
 domain: pouet.chapril.org
-override_description: false
-description: Chapril https://www.chapril.org est un projet de l'April https://www.april.org
-override_language: true
 categories:
 - general
-languages:
-- fr
 region: europe
 legal_body_type: juridicial
+languages:
+- fr

@@ -1,14 +1,11 @@
 ---
 domain: mendeddrum.org
-override_description: false
-description: This is the Mended Drum, Discworlds best known disreputable tavern.
-override_language: true
 categories:
 - books
+region: europe
+legal_body_type: natural
 languages:
 - en
 - de
 - fr
 - nl
-region: europe
-legal_body_type: natural

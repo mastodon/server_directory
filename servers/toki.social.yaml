@@ -1,11 +1,8 @@
 ---
 domain: toki.social
-override_description: false
-description: toki! ni li kulupu pi toki pona lon ilo Masoton. o kama!
-override_language: true
 categories:
 - hobby
-languages:
-- tok
 region: europe
 legal_body_type: natural
+languages:
+- tok

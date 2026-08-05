@@ -1,12 +1,6 @@
 ---
 domain: gardenstate.social
-override_description: false
-description: A place for all things New Jersey. You don't have live in the Garden
-  State to join because you can love New Jersey from anywhere in the world.
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: north_america
 legal_body_type: natural

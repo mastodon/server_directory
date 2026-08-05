@@ -1,13 +1,6 @@
 ---
 domain: mastodon.frl
-override_description: false
-description: 'Voor iedereen die een warme band heeft met Fryslân. Alle talen die Fryslân
-  rijk is, zijn hier welkom Nederlands, Fries, Stellingwerfs, etc. Dus: van en voor
-  Friezen, in de breedste zin van het woord!'
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: europe
 legal_body_type: juridicial

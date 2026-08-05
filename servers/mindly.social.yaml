@@ -1,13 +1,6 @@
 ---
 domain: mindly.social
-override_description: false
-description: "Mindly.Social is an English speaking, friendly Mastodon instance created
-  for people who want to use their brains and their hearts to make social networking
-  more social. \U0001F9E0\U0001F496"
-override_language: false
 categories:
 - general
-languages:
-- en
 region: north_america
 legal_body_type: natural

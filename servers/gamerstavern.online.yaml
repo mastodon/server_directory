@@ -1,13 +1,6 @@
 ---
 domain: gamerstavern.online
-override_description: false
-description: The Gamers' Tavern is a cozy community talking mainly about gaming but
-  not disdaining other topics, fully committed to the Fediverse and run by an amazing
-  staff.
-override_language: false
 categories:
 - games
-languages:
-- en
 region: europe
 legal_body_type: natural

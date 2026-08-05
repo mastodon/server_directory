@@ -1,13 +1,6 @@
 ---
 domain: birds.town
-override_description: false
-description: "A server primarily meant for people who like birds, birding and nature
-  in general, but obviously everyone is equally welcome here! \U0001FAB6 Have fun
-  cawing about \U0001FAB6"
-override_language: false
 categories:
 - academia
-languages:
-- en
 region: europe
 legal_body_type: natural

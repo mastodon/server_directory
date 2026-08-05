@@ -1,11 +1,6 @@
 ---
 domain: umbracocommunity.social
-override_description: false
-description: A Mastodon server run by and for the Umbraco CMS Community
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: europe
 legal_body_type: natural

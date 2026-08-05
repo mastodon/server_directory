@@ -1,13 +1,8 @@
 ---
 domain: witter.cz
-override_description: false
-description: "Witter.cz je otevřený každému, kdo chce s respektem k ostatním sdílet,
-  informovat a diskutovat.\r\n\r\nBez reklam, sbírání osobních informací a sledování
-  uživatelů."
-override_language: true
 categories:
 - regional
-languages:
-- cs
 region: europe
 legal_body_type: juridicial
+languages:
+- cs

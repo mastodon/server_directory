@@ -1,12 +1,6 @@
 ---
 domain: social.vivaldi.net
-override_description: false
-description: Vivaldi Social is part of the Mastodon network and is hosted in Iceland
-  by the makers of Vivaldi Browser. Everyone is welcome to join.
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: juridicial

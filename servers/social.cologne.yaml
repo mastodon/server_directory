@@ -1,12 +1,8 @@
 ---
 domain: social.cologne
-override_description: false
-description: social.cologne is eine Mastodon Instanz für alle, die sich mit Köln verbunden
-  fühlen.
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

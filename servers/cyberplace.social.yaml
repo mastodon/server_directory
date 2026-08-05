@@ -1,12 +1,6 @@
 ---
 domain: cyberplace.social
-override_description: false
-description: Cybersecurity, fandom, video games, technology, dog photos and most importantly,
-  you.
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: europe
 legal_body_type: natural

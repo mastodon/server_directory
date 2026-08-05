@@ -1,13 +1,8 @@
 ---
 domain: todon.nl
-override_description: false
-description: Radical leftist anti-authoritarian. For anarchists, socialists, (climate)
-  activists, LGBTQIA+, anti-racists, anti-fascists, anti-capitalists, intersectionalists,
-  human rights, animal rights, etc. [sign-up using a webbrowser]
-override_language: true
 categories:
 - activism
-languages:
-- en
 region: europe
 legal_body_type: natural
+languages:
+- en

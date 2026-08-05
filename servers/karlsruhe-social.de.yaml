@@ -1,13 +1,8 @@
 ---
 domain: karlsruhe-social.de
-override_description: false
-description: Dieser Mastodon-Server ist eine private Initiative für alle, die sich
-  für unsere Region Karlsruhe interessieren. Du hast Fragen? Melde dich gerne bei
-  uns!
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

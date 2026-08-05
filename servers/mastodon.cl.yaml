@@ -1,13 +1,9 @@
 ---
 domain: mastodon.cl
-override_description: true
-description: Server de Mastodon en español con temática general orientado a la comunidad
-  chilena para generar un espacio seguro, abierto y democrático en internet
-override_language: false
 categories:
 - regional
 - general
-languages:
-- es
 region: south_america
 legal_body_type: natural
+description: Server de Mastodon en español con temática general orientado a la comunidad
+  chilena para generar un espacio seguro, abierto y democrático en internet

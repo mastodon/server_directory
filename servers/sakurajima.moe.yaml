@@ -1,13 +1,6 @@
 ---
 domain: sakurajima.moe
-override_description: false
-description: A comfy, non-toxic, and inclusive Anime/Manga/Japanese Media fandom and
-  Japanese Media/Culture Content Creators (Bloggers/Artists/Video Creators/Podcasters/etc.)
-  Mastodon Server
-override_language: false
 categories:
 - general
-languages:
-- en
 region: north_america
 legal_body_type: natural

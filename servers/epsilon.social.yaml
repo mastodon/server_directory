@@ -1,11 +1,6 @@
 ---
 domain: epsilon.social
-override_description: false
-description: ''
-override_language: false
 categories:
 - music
-languages:
-- en
 region: europe
 legal_body_type: natural

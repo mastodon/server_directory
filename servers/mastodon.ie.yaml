@@ -1,12 +1,6 @@
 ---
 domain: mastodon.ie
-override_description: false
-description: Irish Mastodon - run from Ireland, we welcome all who respect the community
-  rules and members.
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: europe
 legal_body_type: natural

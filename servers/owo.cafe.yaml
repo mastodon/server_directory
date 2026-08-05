@@ -1,11 +1,6 @@
 ---
 domain: owo.cafe
-override_description: false
-description: Tu cafetería de confianza para hablar de las cosas que te gustan.
-override_language: false
 categories:
 - general
-languages:
-- es
 region: europe
 legal_body_type: natural

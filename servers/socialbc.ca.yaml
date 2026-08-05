@@ -1,14 +1,7 @@
 ---
 domain: socialbc.ca
-override_description: false
-description: This Mastodon Instance is intended to serve citizens and residents of
-  British Columbia, Canada. We respectfully occupy this virtual space within the Traditional
-  Territories of First Nations peoples.
-override_language: false
 categories:
 - regional
 - general
-languages:
-- en
 region: north_america
 legal_body_type: juridicial

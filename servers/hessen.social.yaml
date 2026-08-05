@@ -1,12 +1,6 @@
 ---
 domain: hessen.social
-override_description: false
-description: hessen.social ist die Mastodongemeinschaft für alle Hessen:innen und
-  alle, die sich Hessen verbunden fühlen
-override_language: false
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural

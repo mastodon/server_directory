@@ -1,12 +1,6 @@
 ---
 domain: mastodon.cr
-override_description: false
-description: Servidor de Mastodon para gente y organizaciones de Costa Rica. Espacio
-  seguro libre de discursos de odio, homofobia, transfobia y racismo.
-override_language: false
 categories:
 - regional
-languages:
-- es
 region: north_america
 legal_body_type: natural

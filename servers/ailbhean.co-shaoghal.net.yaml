@@ -1,13 +1,6 @@
 ---
 domain: ailbhean.co-shaoghal.net
-override_description: false
-description: "This server is aimed at Gaelic speakers.\r\nTha am frithealaiche seo
-  ann do luchd na Gàidhlig.\r\nMa tha duilgheadas agad leis a’ CAPTCHA, cuir post-d
-  thugainn air rianaire@co-shaoghal.net"
-override_language: false
 categories:
 - general
-languages:
-- gd
 region: europe
 legal_body_type: natural

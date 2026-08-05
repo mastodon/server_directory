@@ -1,12 +1,6 @@
 ---
 domain: mastodon.com.br
-override_description: false
-description: O mastodon.com.br é uma instância voltada para falantes de português
-  brasileiro.
-override_language: false
 categories:
 - general
-languages:
-- pt
 region: south_america
 legal_body_type: natural

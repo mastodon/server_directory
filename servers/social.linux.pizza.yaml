@@ -1,13 +1,6 @@
 ---
 domain: social.linux.pizza
-override_description: false
-description: "A instance dedicated - but not limited - to people with an interest
-  in the GNU+Linux ecosystem and/or general tech. Sysadmins to enthusiasts, creators
-  to movielovers - Welcome!\r\n\r\n"
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: europe
 legal_body_type: natural

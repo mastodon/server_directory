@@ -1,13 +1,6 @@
 ---
 domain: sociale.network
-override_description: false
-description: Sociale.network è un ambiente di confronto per pacifisti, anarcolibertari,
-  ecologisti, antimilitaristi, antirazzisti, antifascisti e ogni altro genere di persone
-  che sogna un mondo pulito e solidale
-override_language: false
 categories:
 - general
-languages:
-- it
 region: europe
 legal_body_type: juridicial

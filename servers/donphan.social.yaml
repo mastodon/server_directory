@@ -1,12 +1,4 @@
 ---
 domain: donphan.social
-override_description: false
-description: This generalist Mastodon server welcomes enthusiasts of the Pokémon franchise,
-  to talk about it or anything else. Join the federation!
-override_language:
 categories:
 - games
-languages:
-- en
-region: ''
-legal_body_type:

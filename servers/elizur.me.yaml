@@ -1,12 +1,8 @@
 ---
 domain: elizur.me
-override_description: false
-description: Wir bieten einen kleinen Gemeinschaftsraum zum Thema Bibel und Schöpfer.
-  Die primäre Sprache ist Deutsch.
-override_language: true
 categories:
 - general
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

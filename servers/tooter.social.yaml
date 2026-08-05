@@ -1,12 +1,6 @@
 ---
 domain: tooter.social
-override_description: false
-description: "Tooter est un serveur Mastodon généraliste, principalement francophone.\r\nIllustration
-  par David Revoy."
-override_language: false
 categories:
 - general
-languages:
-- fr
 region: europe
 legal_body_type: natural

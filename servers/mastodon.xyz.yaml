@@ -1,12 +1,4 @@
 ---
 domain: mastodon.xyz
-override_description: false
-description: A Mastodon instance, open to everyone, but mainly English and French
-  speaking.
-override_language:
 categories:
 - general
-languages:
-- en
-region: ''
-legal_body_type:

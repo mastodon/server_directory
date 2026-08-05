@@ -1,13 +1,6 @@
 ---
 domain: cupoftea.social
-override_description: false
-description: 'A Small Community Mastodon Server for Casual Chit-Chat. UK Based, A
-  place for good and wholesome content open to everyone. Pets, Photos, Music & Food
-  are popular topics. '
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: natural

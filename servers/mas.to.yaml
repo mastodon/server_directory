@@ -1,11 +1,6 @@
 ---
 domain: mas.to
-override_description: false
-description: Hello! mas.to is a fast, up-to-date and fun Mastodon server.
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: natural

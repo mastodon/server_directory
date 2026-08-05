@@ -1,12 +1,6 @@
 ---
 domain: mastodon.sdf.org
-override_description: false
-description: '"I appreciate SDF but it''s a general-purpose server and the name doesn''t
-  make it obvious that it''s about art." - Eugen Rochko'
-override_language: false
 categories:
 - general
-languages:
-- en
 region: north_america
 legal_body_type: juridicial

@@ -1,12 +1,6 @@
 ---
 domain: tyrol.social
-override_description: false
-description: tyrol.social - Die Social-Media-Plattform für Tirol & alle, die sich
-  in den Alpen wohlfühlen. Vernetze dich, teile deine Erlebnisse und triff Gleichgesinnte.
-override_language: false
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural

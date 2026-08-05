@@ -1,13 +1,6 @@
 ---
 domain: disabled.social
-override_description: false
-description: A place for people who are chronically ill, mentally ill, disabled, and
-  friends/families/allies to come together, meet, share knowledge and random banter,
-  and just about anything else.
-override_language: false
 categories:
 - activism
-languages:
-- en
 region: north_america
 legal_body_type: natural

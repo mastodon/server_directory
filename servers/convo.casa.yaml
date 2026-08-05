@@ -1,11 +1,6 @@
 ---
 domain: convo.casa
-override_description: false
-description: General-purpose Mastodon instance for everyone.
-override_language: false
 categories:
 - general
-languages:
-- en
 region: africa
 legal_body_type: juridicial

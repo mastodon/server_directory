@@ -1,12 +1,8 @@
 ---
 domain: mastodon.bida.im
-override_description: false
-description: Un'istanza mastodon antifascista. autogestita, italofona con base a Bologna.
-  Rispettosa di privacy e anonimato.
-override_language: true
 categories:
 - general
-languages:
-- it
 region: europe
 legal_body_type: natural
+languages:
+- it

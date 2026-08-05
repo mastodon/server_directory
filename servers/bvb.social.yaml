@@ -1,12 +1,6 @@
 ---
 domain: bvb.social
-override_description: false
-description: bvb.social ist eine Mastodon Instanz von Fans für Fans. Dieses ist keine
-  offizielle BVB-Instanz.
-override_language: false
 categories:
 - sports
-languages:
-- de
 region: europe
 legal_body_type: natural

@@ -1,11 +1,8 @@
 ---
 domain: toot.re
-override_description: false
-description: 'Mastodon server gericht op Nederlandstalige gebruikers. '
-override_language: true
 categories:
 - general
-languages:
-- nl
 region: europe
 legal_body_type: natural
+languages:
+- nl

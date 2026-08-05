@@ -1,13 +1,8 @@
 ---
 domain: mastodon-swiss.org
-override_description: false
-description: "Dieser Mastodon-Server wird durch Lukas Frey betrieben (privat). \r\nDiese
-  Instanz soll vor allem von Benutzern im Grossraum Schweiz in den Sprachen 'deutsch'
-  und 'englisch' genutzt werden."
-override_language: true
 categories:
 - general
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

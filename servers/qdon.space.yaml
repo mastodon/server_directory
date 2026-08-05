@@ -1,12 +1,6 @@
 ---
 domain: qdon.space
-override_description: false
-description: "2017년부터 마스토돈 개발에 꾸준히 기여하는 원조 장인이 운영하는, 한국어권에서 가장 오래된 마스토돈 서버입니다.\r\n성소수자들이
-  마음 놓고 이용할 수 있는 공간을 목적으로 개설되었습니다."
-override_language: false
 categories:
 - lgbt
-languages:
-- ko
 region: asia
 legal_body_type: natural

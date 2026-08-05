@@ -1,12 +1,8 @@
 ---
 domain: bologna.one
-override_description: false
-description: Questa è un'istanza Mastodon in italiano della città di Bologna. Ma non
-  serve essere bolognesi per iscriversi!
-override_language: true
 categories:
 - regional
-languages:
-- it
 region: europe
 legal_body_type: natural
+languages:
+- it

@@ -1,13 +1,6 @@
 ---
 domain: opencoaster.net
-override_description: false
-description: A community of coaster and themed entertainment enthusiasts. Coasters,
-  churros, you name it we love it. We also run a number of theme park cross-posting
-  bots. Spam not welcome here.
-override_language: false
 categories:
 - general
-languages:
-- en
 region: north_america
 legal_body_type: natural

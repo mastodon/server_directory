@@ -1,13 +1,9 @@
 ---
 domain: hispagatos.space
-override_description: false
-description: Hispagatos - Anarcho hacker collective a(A)a - A Hacker culture and a
-  Anarchist hacker friendly mastodon instance.
-override_language: true
 categories:
 - activism
 - tech
-languages:
-- es
 region: europe
 legal_body_type: natural
+languages:
+- es

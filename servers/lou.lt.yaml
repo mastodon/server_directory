@@ -1,13 +1,8 @@
 ---
 domain: lou.lt
-override_description: false
-description: Instance francophone toujours là depuis 2017 et qui n'a pas prévu de
-  s'arrêter ! Ici on pouette un peu de tout mais toujours dans le respect de la loi
-  et des autres. Hébergée par NetFreaks.
-override_language: true
 categories:
 - general
-languages:
-- fr
 region: europe
 legal_body_type: natural
+languages:
+- fr

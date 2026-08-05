@@ -1,13 +1,6 @@
 ---
 domain: darticulate.com
-override_description: false
-description: A Mastodon instance for Dartisans, run by myself Steve Hamblett as user
-  shamblett, on pub.dev you can see my packages under the darticulate.com publisher,
-  for all things Dart and flutter.
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: europe
 legal_body_type: natural

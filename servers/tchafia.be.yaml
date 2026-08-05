@@ -1,12 +1,6 @@
 ---
 domain: tchafia.be
-override_description: false
-description: "Une instance généraliste Mastodon en Belgique administrée par un collectif
-  associatif   Ouvert à tous et toutes \r\n"
-override_language: false
 categories:
 - general
-languages:
-- fr
 region: europe
 legal_body_type: juridicial

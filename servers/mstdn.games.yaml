@@ -1,13 +1,6 @@
 ---
 domain: mstdn.games
-override_description: false
-description: 'We are a gaming-focused space on Mastodon. We welcome everyone who enjoys
-  any type of gaming - it doesn''t just need to be video games. Let''s build a diverse
-  and inclusive community together! '
-override_language: false
 categories:
 - games
-languages:
-- en
 region: north_america
 legal_body_type: natural

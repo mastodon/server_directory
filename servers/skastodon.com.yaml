@@ -1,12 +1,6 @@
 ---
 domain: skastodon.com
-override_description: false
-description: A Mastodon server for ska musicians, artists, fans, and anyone else in
-  the ska community.
-override_language: false
 categories:
 - music
-languages:
-- en
 region: north_america
 legal_body_type: natural

@@ -1,11 +1,6 @@
 ---
 domain: hoosier.social
-override_description: false
-description: A small, independent Mastodon server focused on serving Indiana residents.
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: north_america
 legal_body_type: natural

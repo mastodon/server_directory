@@ -1,13 +1,6 @@
 ---
 domain: noc.social
-override_description: false
-description: 'This instance is focused on technology, networking, linux, privacy,
-  security, infosec, engineering, but open to anyone. Civil discourse, polite and
-  open. Managed by the noc.org / trunc.org team. '
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: north_america
 legal_body_type: juridicial

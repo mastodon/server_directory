@@ -1,11 +1,6 @@
 ---
 domain: m.cmx.im
-override_description: false
-description: 长毛象中文站是一个开放、友好、有爱的社区。长毛象中文站主题为喵、汪、各种动物、社交、科技、编程及生活。我们欢迎友好、热情、乐于分享的朋友，无论你的兴趣点是什么。
-override_language: false
 categories:
 - general
-languages:
-- zh
 region: asia
 legal_body_type: natural

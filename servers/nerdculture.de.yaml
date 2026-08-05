@@ -1,13 +1,4 @@
 ---
 domain: nerdculture.de
-override_description: false
-description: "Be excellent to each other, live humanism, no nazis, no hate speech.
-  Not only for nerds, but the domain is somewhat cool. ;)\r\nNo bots in general. Languages:
-  DE, EN, FR, NL, ES, IT"
-override_language:
 categories:
 - general
-languages:
-- en
-region: ''
-legal_body_type:

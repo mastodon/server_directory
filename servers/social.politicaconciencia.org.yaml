@@ -1,13 +1,6 @@
 ---
 domain: social.politicaconciencia.org
-override_description: false
-description: 'Foro que privilegia el diálogo informado y respetuoso; un entorno apropiado
-  para expresarte sin ser censurado por tu ideología o tus creencias. Temáticas: Política,
-  Ciencia y Cultura. 850 caracteres.'
-override_language: false
 categories:
 - activism
-languages:
-- es
 region: europe
 legal_body_type: juridicial

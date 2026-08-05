@@ -1,12 +1,6 @@
 ---
 domain: saint-paul.us
-override_description: false
-description: This is a regional, general topic community for anyone that is interested
-  in the Saint Paul, Minnesota metropolitan area.
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: north_america
 legal_body_type: natural

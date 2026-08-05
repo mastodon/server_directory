@@ -1,13 +1,6 @@
 ---
 domain: mastodon.free-solutions.org
-override_description: false
-description: "MASTODON 100% Suisse hébergé et géré par Free-Solutions sàrl\r\nBienvenue
-  aux francophones.\r\nInscriptions libres et immédiates\r\nSuisse, Logiciels LIBRES,
-  Fédiverse, Visioconférences et webRTC"
-override_language: false
 categories:
 - general
-languages:
-- fr
 region: europe
 legal_body_type: juridicial

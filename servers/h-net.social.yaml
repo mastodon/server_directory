@@ -1,11 +1,6 @@
 ---
 domain: h-net.social
-override_description: false
-description: H-Net Humanities and Social Sciences Online
-override_language: false
 categories:
 - academia
-languages:
-- en
 region: north_america
 legal_body_type: juridicial

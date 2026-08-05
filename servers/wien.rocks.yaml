@@ -1,11 +1,8 @@
 ---
 domain: wien.rocks
-override_description: false
-description: "Fediverse/Mastodon Instanz für und aus Wien.\r\n\r\n"
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

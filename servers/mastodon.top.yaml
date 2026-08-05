@@ -1,12 +1,4 @@
 ---
 domain: mastodon.top
-override_description: false
-description: Mastodon.top est une instance francophone stable, régulièrement mise
-  à jour et accessible à tous hébergée par VirtuBox
-override_language:
 categories:
 - general
-languages:
-- fr
-region: ''
-legal_body_type:

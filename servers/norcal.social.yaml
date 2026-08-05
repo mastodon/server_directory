@@ -1,14 +1,7 @@
 ---
 domain: norcal.social
-override_description: false
-description: Welcome to NorCal.social! This is a Mastodon instance specifically intended
-  for  anyone who lives in or has a connection to Northern California. All are welcome,
-  join today :)
-override_language: false
 categories:
 - general
 - regional
-languages:
-- en
 region: north_america
 legal_body_type: natural

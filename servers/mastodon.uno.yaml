@@ -1,13 +1,6 @@
 ---
 domain: mastodon.uno
-override_description: false
-description: Dal 2019 è la comunità Mastodon più grande d’Italia, con i suoi 80.000
-  iscritti è fra le 10 istanze più attive al mondo ed è parte dell'associazione noprofit
-  Fedimedia Italia APS.
-override_language: false
 categories:
 - general
-languages:
-- it
 region: europe
 legal_body_type: natural

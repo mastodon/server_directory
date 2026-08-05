@@ -1,12 +1,8 @@
 ---
 domain: mastodon.au
-override_description: false
-description: "No description because we couldn't make up our minds and went fishing
-  instead \U0001F3A3 (*or pat the cat or doggo \U0001F431\U0001F436)"
-override_language: true
 categories:
 - regional
-languages:
-- en
 region: oceania
 legal_body_type: juridicial
+languages:
+- en

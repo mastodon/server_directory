@@ -1,12 +1,6 @@
 ---
 domain: queer.cool
-override_description: false
-description: A queer-friendly Mastodon instance. We strive to be inclusive and welcoming
-  to everyone in the LGBTQ+ community. Be kind to each other.
-override_language: false
 categories:
 - lgbt
-languages:
-- en
 region: north_america
 legal_body_type: natural

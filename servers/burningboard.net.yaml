@@ -1,13 +1,6 @@
 ---
 domain: burningboard.net
-override_description: false
-description: "Willkommen bei Burningboard.net, der Mastodon-Instanz für alle Nerds
-  und Technik-Fans!\r\n\r\nWelcome to Burningboard.net, the Mastodon instance for
-  all nerds and techies!"
-override_language: false
 categories:
 - tech
-languages:
-- de
 region: europe
 legal_body_type: natural

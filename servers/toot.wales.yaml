@@ -1,12 +1,6 @@
 ---
 domain: toot.wales
-override_description: false
-description: 'The Social Web hub for Wales and the Welsh, at home and abroad. Clonc
-  a chymuned, ymuna heddiw! It''s #BetterSocial, simple as.'
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: europe
 legal_body_type: juridicial

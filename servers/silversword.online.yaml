@@ -1,13 +1,6 @@
 ---
 domain: silversword.online
-override_description: false
-description: Silversword is a general English-speaking instance for gamers. No matter
-  if you are a Steam gamer, Xbox, PlayStation, Nintendo, Amiga, Atari... You get the
-  point :-) Hop on and let's talk video games!
-override_language: false
 categories:
 - games
-languages:
-- en
 region: europe
 legal_body_type: natural

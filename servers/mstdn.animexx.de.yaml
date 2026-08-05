@@ -1,12 +1,6 @@
 ---
 domain: mstdn.animexx.de
-override_description: false
-description: "Die Mastodon-Instanz des Animexx e.V.\r\n\r\nDie deutsche Community
-  für Anime|Manga|Cosplay|Art|Japan|Events"
-override_language: false
 categories:
 - games
-languages:
-- de
 region: europe
 legal_body_type: natural

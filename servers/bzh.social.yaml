@@ -1,13 +1,6 @@
 ---
 domain: bzh.social
-override_description: false
-description: "\"Chez les Bretons, il ne pleut que sur les cons\" \U0001F326️ Ceci
-  est un serveur pour les personnes qui vivent en Bretagne ou qui s'intéressent à
-  la culture bretonne."
-override_language: false
 categories:
 - regional
-languages:
-- fr
 region: europe
 legal_body_type: natural

@@ -1,12 +1,8 @@
 ---
 domain: toot.si
-override_description: false
-description: Toot.si je slovensko Mastodon vozlišče katerega osnovni cilj je omogočati
-  prijazno skupnost in varnejši prostor.
-override_language: true
 categories:
 - regional
-languages:
-- sl
 region: europe
 legal_body_type: natural
+languages:
+- sl

@@ -1,13 +1,9 @@
 ---
 domain: fairy.id
-override_description: false
-description: 這是一個以中文交流為主、同時歡迎全球使用者加入的 Mastodon 社群。在去中心化的世界裡，我們保留一點距離，也分享一點真實。Even
-  when stories end, conversations can still continue.
-override_language: true
 categories:
 - general
+region: asia
+legal_body_type: natural
 languages:
 - zh
 - en
-region: asia
-legal_body_type: natural

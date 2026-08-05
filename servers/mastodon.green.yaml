@@ -1,12 +1,4 @@
 ---
 domain: mastodon.green
-override_description: false
-description: Plant trees while you use Mastodon. A server originally for people in
-  the EU, but now open for anyone in the world
-override_language: false
 categories:
 - regional
-languages:
-- en
-region: ''
-legal_body_type:

@@ -1,13 +1,9 @@
 ---
 domain: toot.funami.tech
-override_description: false
-description: Safe and free-for-all hang out space without hate, discrimination, operated
-  by YuruVerse / YuruVerse에 의해 운영되는 혐오와 차별이 없는 자유로운 대화 공간.
-override_language: true
 categories:
 - general
+region: asia
+legal_body_type: natural
 languages:
 - ko
 - en
-region: asia
-legal_body_type: natural

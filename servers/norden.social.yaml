@@ -1,12 +1,8 @@
 ---
 domain: norden.social
-override_description: false
-description: Moin! Dies ist die Mastodon-Instanz für Nordlichter, Schnacker und alles
-  dazwischen. Folge dem Leuchtturm.
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

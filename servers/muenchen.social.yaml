@@ -1,13 +1,6 @@
 ---
 domain: muenchen.social
-override_description: false
-description: "Hallo auf muenchen.social \r\nDies ist eine deutschsprachige Mastodon
-  Instanz für München zum tröten, neue Leute kennenlernen, sich auszutauschen und
-  Spass zu haben."
-override_language: false
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural

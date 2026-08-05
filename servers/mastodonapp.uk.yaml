@@ -1,13 +1,7 @@
 ---
 domain: mastodonapp.uk
-override_description: false
-description: UK Hosted and Managed Mastodon Instance. General communal space for discussion,
-  everyone welcome! Now with a 1000 character limit for posts!
-override_language: false
 categories:
 - regional
 - general
-languages:
-- en
 region: europe
 legal_body_type: juridicial

@@ -1,13 +1,7 @@
 ---
 domain: veganism.social
-override_description: false
-description: Veganism Social is a welcoming space on the internet for vegans to connect
-  and engage with the broader decentralized social media community.
-override_language: false
 categories:
 - activism
 - food
-languages:
-- en
 region: north_america
 legal_body_type: natural

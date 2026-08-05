@@ -1,13 +1,6 @@
 ---
 domain: burnout.cafe
-override_description: false
-description: 'Frankly, we''re just too burned out to write a description. You suffering
-  from burnout, too? Come and chill for a while at Burnout Café. Maybe you''ll feel
-  better. Or maybe you won''t. Anyway, try it. '
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: natural

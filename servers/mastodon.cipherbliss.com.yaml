@@ -1,12 +1,6 @@
 ---
 domain: mastodon.cipherbliss.com
-override_description: false
-description: la meilleure instance mastodon du fédiverse, rien que ça. Arts et choses
-  diverses en Français et anglais.
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: natural

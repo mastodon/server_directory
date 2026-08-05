@@ -1,12 +1,6 @@
 ---
 domain: mastodon.pub.solar
-override_description: false
-description: This instance is operated by pub.solar. We're a friendly community creating
-  a digital corner pub.
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: natural

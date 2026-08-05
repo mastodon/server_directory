@@ -1,12 +1,6 @@
 ---
 domain: pnw.zone
-override_description: false
-description: Come join the Pacific Northwest (US/Canada) Community! A regional instance
-  for anyone that lives in or enjoys the PNW.
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: north_america
 legal_body_type: natural

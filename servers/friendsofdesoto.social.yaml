@@ -1,13 +1,6 @@
 ---
 domain: friendsofdesoto.social
-override_description: false
-description: Greatest Trek Podcast Fans! This is a Star Trek Podcast Community for
-  people a little embarrassed to be part of a Star Trek Podcast Community. A home
-  for fans of Greatest Gen & Greatest Trek.
-override_language: false
 categories:
 - general
-languages:
-- en
 region: north_america
 legal_body_type: natural

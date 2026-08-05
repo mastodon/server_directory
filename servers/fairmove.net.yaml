@@ -1,14 +1,10 @@
 ---
 domain: fairmove.net
-override_description: false
-description: 'A place for people who do fair moves. Operated by fairkom, as part of
-  the fairapps.net open source cloud portfolio with SingleSignOn. Hosted in EU. '
-override_language: true
 categories:
 - general
 - activism
+region: europe
+legal_body_type: juridicial
 languages:
 - en
 - de
-region: europe
-legal_body_type: juridicial

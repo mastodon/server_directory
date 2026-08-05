@@ -1,12 +1,6 @@
 ---
 domain: bark.lgbt
-override_description: false
-description: "Furry focused instance for critters that like to bark!\r\nLGBTQ+ run
-  and friendly, active moderation"
-override_language: false
 categories:
 - furry
-languages:
-- en
 region: europe
 legal_body_type: natural

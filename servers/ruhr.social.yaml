@@ -1,12 +1,8 @@
 ---
 domain: ruhr.social
-override_description: false
-description: Eine Mastodon-Gemeinschaft rund um das Ruhrgebiet und die Menschen dort.
-  Diese Instanz wird ehrenamtlich von Enthusiasten moderiert und technisch betreut.
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

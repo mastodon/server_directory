@@ -1,12 +1,9 @@
 ---
 domain: balkan.fedive.rs
-override_description: false
-description: Mastodon instanca namenjena domaćoj publici
-override_language: true
 categories:
 - regional
+region: europe
+legal_body_type: natural
 languages:
 - bs
 - hbs
-region: europe
-legal_body_type: natural

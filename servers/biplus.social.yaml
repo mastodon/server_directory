@@ -1,12 +1,6 @@
 ---
 domain: biplus.social
-override_description: false
-description: Der Mastodon-Server für die Bi+Community und Allies, betrieben vom gemeinnützigen
-  Verein BiNe - Bisexuelles Netzwerk e.V.
-override_language: false
 categories:
 - lgbt
-languages:
-- de
 region: europe
 legal_body_type: juridicial

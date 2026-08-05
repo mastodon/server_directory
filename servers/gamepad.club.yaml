@@ -1,13 +1,6 @@
 ---
 domain: gamepad.club
-override_description: false
-description: Gamepad.Club has a video games focus, but we're open to all forms of
-  gaming from tabletop RPGs to trading card games. Hosted in the UK and EU but everyone
-  is welcome!
-override_language: false
 categories:
 - games
-languages:
-- en
 region: europe
 legal_body_type: natural

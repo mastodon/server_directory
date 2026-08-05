@@ -1,11 +1,8 @@
 ---
 domain: fikaverse.club
-override_description: false
-description: Det här är en instans för talare av skandinaviska språk. Välkommen!
-override_language: true
 categories:
 - general
-languages:
-- sv
 region: europe
 legal_body_type: natural
+languages:
+- sv

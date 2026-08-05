@@ -1,12 +1,6 @@
 ---
 domain: mamot.fr
-override_description: false
-description: Mamot.fr est un serveur Mastodon francophone, géré par La Quadrature
-  du Net.
-override_language: true
 categories:
 - general
 languages:
 - fr
-region: ''
-legal_body_type:

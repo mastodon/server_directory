@@ -1,11 +1,6 @@
 ---
 domain: infosec.exchange
-override_description: false
-description: "A Mastodon instance for info/cyber security-minded people.\r\n"
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: north_america
 legal_body_type: natural

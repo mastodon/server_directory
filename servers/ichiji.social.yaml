@@ -1,11 +1,4 @@
 ---
 domain: ichiji.social
-override_description: false
-description: 一次創作者たちが安心して交流できる場を作るために開設されたMastodonサーバーです。イラスト・漫画・小説・詩・ゲーム・音楽・映像など、幅広い分野で一次創作をする「作り手」たち、一次創作作品が好きな「読み手」たちのための交流の場を目指しています。
-override_language:
 categories:
 - art
-languages:
-- en
-region: ''
-legal_body_type:

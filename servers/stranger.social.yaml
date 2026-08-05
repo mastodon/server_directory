@@ -1,13 +1,6 @@
 ---
 domain: stranger.social
-override_description: false
-description: Welcome to Stranger Social, where strangers become friends and the world
-  becomes a little smaller. We're a friendly and welcoming community that's open to
-  everyone - so come on in and join the party!
-override_language: false
 categories:
 - general
-languages:
-- en
 region: north_america
 legal_body_type: natural

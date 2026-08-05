@@ -1,12 +1,7 @@
 ---
 domain: mastodon.gamedev.place
-override_description: false
-description: Mastodon server focused on game development and related topics.
-override_language: false
 categories:
 - games
 - tech
-languages:
-- en
 region: europe
 legal_body_type: natural

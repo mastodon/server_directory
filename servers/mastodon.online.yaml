@@ -1,12 +1,6 @@
 ---
 domain: mastodon.online
-override_description: false
-description: "A newer server of Mastodon, operated by Mastodon GmbH for the common
-  good.\r\n"
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: juridicial

@@ -1,12 +1,6 @@
 ---
 domain: tooot.im
-override_description: false
-description: "Tooot.im, a Mastodon instance (He | En mostly)\r\nרשת מסטודון עברית
-  | חופשית משיקולים תאגידיים | פדרטיבית עם הFediverse\r\n"
-override_language: false
 categories:
 - general
-languages:
-- he
 region: africa
 legal_body_type: natural

@@ -1,12 +1,8 @@
 ---
 domain: katholisch.social
-override_description: true
-description: 'Wir bieten kirchlichen und caritativen Einrichtungen sowie allen privaten
-  Nutzer*innen eine datenschutzfreundliche Möglichkeit zum Austausch. '
-override_language: false
 categories:
 - religion
-languages:
-- en
 region: europe
 legal_body_type: natural
+description: 'Wir bieten kirchlichen und caritativen Einrichtungen sowie allen privaten
+  Nutzer*innen eine datenschutzfreundliche Möglichkeit zum Austausch. '

@@ -1,12 +1,7 @@
 ---
 domain: genealysis.social
-override_description: false
-description: 'Social interaction for anyone interested in #Genealogy.'
-override_language: false
 categories:
 - academia
 - hobby
-languages:
-- en
 region: europe
 legal_body_type: natural

@@ -1,12 +1,6 @@
 ---
 domain: piaille.fr
-override_description: false
-description: "Piaille.fr est un serveur mastodon public francophone accessible à toutes
-  et à tous.\r\n\r\nJoignable via Tor ici :\r\npiaillesmbiv4wjdy7no6r4eijsv6mlsp3cxrpy37dhmose2jwyqdrid.onion"
-override_language: false
 categories:
 - general
-languages:
-- fr
 region: europe
 legal_body_type: juridicial

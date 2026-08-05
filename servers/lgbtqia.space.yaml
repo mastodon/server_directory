@@ -1,13 +1,6 @@
 ---
 domain: lgbtqia.space
-override_description: false
-description: "This is a cute server for all LGBTQIA ppl out there that want a caring
-  and safe environment.\r\n\r\nIf you are part of the LGBTQIA community you are very
-  cordially invited to join this server."
-override_language: false
 categories:
 - lgbt
-languages:
-- en
 region: europe
 legal_body_type: natural

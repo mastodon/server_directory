@@ -1,11 +1,6 @@
 ---
 domain: libretooth.gr
-override_description: false
-description: a mastodon instance run by LibreOps
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: juridicial

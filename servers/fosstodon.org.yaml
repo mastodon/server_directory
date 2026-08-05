@@ -1,13 +1,6 @@
 ---
 domain: fosstodon.org
-override_description: false
-description: "Fosstodon is an invite only Mastodon instance that is open to those
-  who are interested in technology; particularly free & open source software.\r\n\r\nIf
-  you wish to join, contact us for an invite."
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: europe
 legal_body_type: natural

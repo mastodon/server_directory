@@ -1,12 +1,6 @@
 ---
 domain: planetearth.social
-override_description: false
-description: "\U0001F30D Join planetearth.social: Show Your Love for Earth on a General-Purpose
-  Mastodon Server! \U0001F33F"
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: juridicial
