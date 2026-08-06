@@ -1,13 +1,6 @@
 ---
 domain: mastoturk.org
-override_description: false
-description: mastoturk.org Türkçe ve Türkiye'nin en popüler Mastodon sunucusudur.
-  Meşhur Türk X.com (Twitter) hesapları yansılanmaktadır. Siz de kendi hesabınızı
-  oluşturabilirsiniz.
-override_language: false
 categories:
 - general
-languages:
-- tr
 region: europe
 legal_body_type: natural

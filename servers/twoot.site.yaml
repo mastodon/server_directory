@@ -1,13 +1,9 @@
 ---
 domain: twoot.site
-override_description: true
+categories:
+- general
+region: europe
+legal_body_type: natural
 description: Twootsite is a general server with a focus on your safety. We have strict
   moderation and rules to promote accessibility. Twootsite is running glitch-soc!
   (RIP Tootsite)
-override_language: false
-categories:
-- general
-languages:
-- en
-region: europe
-legal_body_type: natural

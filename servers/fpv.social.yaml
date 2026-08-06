@@ -1,13 +1,6 @@
 ---
 domain: fpv.social
-override_description: false
-description: Welcome to FPV.Social! Join us to share builds, ask for advice, and connect
-  with others passionate about all things FPV. Seasoned pros and beginners welcome.
-  See you in the skies!
-override_language: false
 categories:
 - hobby
-languages:
-- en
 region: europe
 legal_body_type: natural

@@ -1,11 +1,7 @@
 ---
 domain: social.avali.zone
-override_description: true
-description: An server for the avali among us, show us your wings! LGBTQ+ friendly.
-override_language: false
 categories:
 - furry
-languages:
-- en
 region: europe
 legal_body_type: natural
+description: An server for the avali among us, show us your wings! LGBTQ+ friendly.

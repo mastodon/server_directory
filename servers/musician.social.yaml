@@ -1,11 +1,8 @@
 ---
 domain: musician.social
-override_description: false
-description: Mastodon site for Musicians and people into Music
-override_language: true
 categories:
 - music
-languages:
-- en
 region: north_america
 legal_body_type: natural
+languages:
+- en

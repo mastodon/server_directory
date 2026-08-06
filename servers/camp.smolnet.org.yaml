@@ -1,12 +1,4 @@
 ---
 domain: camp.smolnet.org
-override_description: false
-description: This is camp.smolnet.org, a Mastodon instance for the smol internet of
-  friends.
-override_language: false
 categories:
 - general
-languages:
-- en
-region: ''
-legal_body_type:

@@ -1,11 +1,8 @@
 ---
 domain: mastodon.com.tr
-override_description: false
-description: mastodon.com.tr, genel amaçlı ilk Türkçe Mastodon sunucusudur.
-override_language: true
 categories:
 - general
-languages:
-- tr
 region: europe
 legal_body_type: natural
+languages:
+- tr

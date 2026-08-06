@@ -1,13 +1,9 @@
 ---
 domain: w3c.social
-override_description: true
+categories:
+- tech
+region: europe
+legal_body_type: natural
 description: 'w3c.social is a friendly and respectful server for people involved in
   the activities of the World Wide Web Consortium (W3C). The server is run on a volunteer
   basis by a few of the W3C team. '
-override_language: false
-categories:
-- tech
-languages:
-- en
-region: europe
-legal_body_type: natural

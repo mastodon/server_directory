@@ -1,12 +1,8 @@
 ---
 domain: rheinneckar.social
-override_description: false
-description: Das soziale Netzwerk für die Rhein-Neckar-Region im Fediverse. Mannheim,
-  Heidelberg, Ludwigshafen und alles drumherum.
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: juridicial
+languages:
+- de

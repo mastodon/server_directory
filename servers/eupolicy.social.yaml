@@ -1,13 +1,6 @@
 ---
 domain: eupolicy.social
-override_description: false
-description: This Mastodon server is a friendly and respectful discussion space for
-  people working in areas related to EU policy. When you request to create an account,
-  please tell us something about you.
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: europe
 legal_body_type: natural

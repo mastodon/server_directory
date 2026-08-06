@@ -1,13 +1,6 @@
 ---
 domain: mast.hpc.social
-override_description: false
-description: Mastodon instance to support and encourage communication among the High
-  Performance Computing community and related fields. (Personal use permitted.) More
-  community features at https://hpc.social
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: north_america
 legal_body_type: juridicial

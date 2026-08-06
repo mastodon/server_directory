@@ -1,12 +1,6 @@
 ---
 domain: musicworld.social
-override_description: false
-description: Server for all music enthusiasts. Concerts, festivals, new music discovery,
-  music collectors, artists, music charts etc.
-override_language: false
 categories:
 - music
-languages:
-- en
 region: europe
 legal_body_type: natural

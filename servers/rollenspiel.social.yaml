@@ -1,13 +1,8 @@
 ---
 domain: rollenspiel.social
-override_description: false
-description: "rollenspiel.social wird von RollenspielMonster bereitgestellt. Wir bieten
-  einen Platz für Rollenspiel, Pen & Paper, Tabletop, TCG und vieles mehr.\r\nDie
-  primäre Sprache ist Deutsch."
-override_language: true
 categories:
 - games
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

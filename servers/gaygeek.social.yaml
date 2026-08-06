@@ -1,12 +1,6 @@
 ---
 domain: gaygeek.social
-override_description: false
-description: 'This server is intended as a safe place for LGBTQIA+ individuals to
-  socialize. You do not have to be LGBTQIA to join, so long as you are an ally. '
-override_language: false
 categories:
 - lgbt
-languages:
-- en
 region: north_america
 legal_body_type: natural

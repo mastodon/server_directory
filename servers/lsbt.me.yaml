@@ -1,13 +1,8 @@
 ---
 domain: lsbt.me
-override_description: false
-description: 'Diese Mastodon-Instanz ist für alle* die LGBT+ oder Allies sind. Ein
-  Safe Space für Dich! Betrieben von Christin Löhner, selbst trans Frau und Aktivistin
-  für LSBT+ Rechte. #lsbt #lgbt #lgbtq #lgbtiq'
-override_language: true
 categories:
 - lgbt
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

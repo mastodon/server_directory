@@ -1,11 +1,8 @@
 ---
 domain: puntarella.party
-override_description: false
-description: a/social indipendente di Roma
-override_language: true
 categories:
 - general
-languages:
-- it
 region: europe
 legal_body_type: natural
+languages:
+- it

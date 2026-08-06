@@ -1,15 +1,8 @@
 ---
 domain: dariox.club
-override_description: false
-description: "A safe space for tech-centered LGBTQI+ folks and furries. Short non-descriptive
-  join reasons will get you IP banned. Same with join spamming.\r\n\r\nRules last
-  updated: 2023/08/4"
-override_language: false
 categories:
 - furry
 - lgbt
 - tech
-languages:
-- en
 region: oceania
 legal_body_type: natural

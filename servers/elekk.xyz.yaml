@@ -1,11 +1,4 @@
 ---
 domain: elekk.xyz
-override_description: false
-description: ''
-override_language:
 categories:
 - games
-languages:
-- en
-region: ''
-legal_body_type:

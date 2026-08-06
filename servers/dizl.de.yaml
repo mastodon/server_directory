@@ -1,13 +1,8 @@
 ---
 domain: dizl.de
-override_description: false
-description: "dizl.de ist eine kleine Mastodon Instanz.\r\nWir bieten einen kleinen
-  Gemeinschaftsraum - Be excellent to each other.\r\nDie Hauptsprache dieser Instanz
-  ist deutsch."
-override_language: true
 categories:
 - general
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

@@ -1,14 +1,7 @@
 ---
 domain: blorbo.social
-override_description: false
-description: 'Blorbo.Social is a community of fandom nerds. We talk about our favourite
-  blorbos from our shows, create fanart, fanfic, fanvids and other transformative
-  works, and share our weird unique selves. '
-override_language: false
 categories:
 - general
 - games
-languages:
-- en
 region: europe
 legal_body_type: natural

@@ -1,12 +1,8 @@
 ---
 domain: mastodon.de
-override_description: false
-description: Mastodon für die DACH Region (Deutschland, Österreich, Schweiz) - and
-  everyone is welcome!
-override_language: true
 categories:
 - general
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

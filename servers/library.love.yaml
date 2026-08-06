@@ -1,14 +1,7 @@
 ---
 domain: library.love
-override_description: false
-description: 'library.love is a mastodon instance for library workers and library
-  lovers! Run by Califa Group (califa.org), a nonprofit library consortium in San
-  Francisco, CA, USA. '
-override_language: false
 categories:
 - lgbt
 - books
-languages:
-- en
 region: north_america
 legal_body_type: natural

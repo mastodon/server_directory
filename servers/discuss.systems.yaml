@@ -1,13 +1,6 @@
 ---
 domain: discuss.systems
-override_description: false
-description: Discussion of computer systems research & practice -- OSes, distributed
-  systems, networks, databases, architecture, etc -- for researchers, academics, &
-  professionals.
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: north_america
 legal_body_type: natural

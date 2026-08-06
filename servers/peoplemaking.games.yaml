@@ -1,14 +1,7 @@
 ---
 domain: peoplemaking.games
-override_description: false
-description: We're a community of folks who celebrate the craft of creating interactive
-  experiences, whether they're working in games or around them! This is a space for
-  games folks and creatives to call home!
-override_language: false
 categories:
 - games
 - art
-languages:
-- en
 region: north_america
 legal_body_type: natural

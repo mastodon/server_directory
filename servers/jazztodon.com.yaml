@@ -1,12 +1,8 @@
 ---
 domain: jazztodon.com
-override_description: true
-description: 'The Jazztodon instance is the home on Mastodon for jazz people! Join
-  the discussion of all types of jazz and related music. '
-override_language: false
 categories:
 - music
-languages:
-- en
 region: north_america
 legal_body_type: natural
+description: 'The Jazztodon instance is the home on Mastodon for jazz people! Join
+  the discussion of all types of jazz and related music. '

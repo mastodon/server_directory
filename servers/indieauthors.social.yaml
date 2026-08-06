@@ -1,13 +1,6 @@
 ---
 domain: indieauthors.social
-override_description: false
-description: "This server is dedicated to self-published, independent authors who
-  want to help, encourage, and socialize with other indies. It's also for all the
-  fans that love and support indie authors.\r\n"
-override_language: false
 categories:
 - books
-languages:
-- en
 region: north_america
 legal_body_type: juridicial

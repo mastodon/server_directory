@@ -1,12 +1,6 @@
 ---
 domain: masto.nyc
-override_description: false
-description: "\U0001F5FD A regional server for New York City! Engage with your neighbors,
-  friends, and the whole fediverse. Operated with ❤️ by a dedicated nonprofit."
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: north_america
 legal_body_type: natural

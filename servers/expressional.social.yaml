@@ -1,17 +1,12 @@
 ---
 domain: expressional.social
-override_description: false
-description: "Mastodon server hosted in Copenhagen, Denmark, by a dane. \r\n\r\nAll
-  languages are welcome, Federated with other Danish servers. Focus on safety, transparency
-  and security."
-override_language: true
 categories:
 - regional
 - general
+region: europe
+legal_body_type: natural
 languages:
 - en
 - da
 - sv
 - 'no'
-region: europe
-legal_body_type: natural

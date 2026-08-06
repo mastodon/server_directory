@@ -1,14 +1,9 @@
 ---
 domain: famichiki.jp
-override_description: false
-description: We are a community-driven server operated by a diverse group of foreigners
-  residing in Japan. While we primarily have English speakers in our community, we
-  welcome users of all languages.
-override_language: true
 categories:
 - general
+region: asia
+legal_body_type: natural
 languages:
 - en
 - ja
-region: asia
-legal_body_type: natural

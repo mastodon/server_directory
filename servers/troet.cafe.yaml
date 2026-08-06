@@ -1,13 +1,6 @@
 ---
 domain: troet.cafe
-override_description: false
-description: "Hallo im troet.cafe!\r\nDies ist die derzeit größte deutschsprachige
-  Mastodon Instanz zum tröten, neue Leute kennenlernen, sich auszutauschen und Spaß
-  zu haben."
-override_language: false
 categories:
 - general
-languages:
-- de
 region: europe
 legal_body_type: natural

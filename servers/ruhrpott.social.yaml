@@ -1,13 +1,6 @@
 ---
 domain: ruhrpott.social
-override_description: false
-description: Du bist ein Kind des Ruhrgebiets? Das Ruhrgebiet ist deine Heimat? Du
-  machst gern Urlaub im Pott? Du bist einfach nur neugierig? Dann tritt dieser Instanz
-  bei und tausche dich mit netten Menschen aus.
-override_language: false
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural

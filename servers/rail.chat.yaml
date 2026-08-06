@@ -1,14 +1,7 @@
 ---
 domain: rail.chat
-override_description: false
-description: Discussing passenger and freight rail, its connections to transit and
-  other non-car options, and the economic, environmental and equity benefits of seamless
-  mobility.
-override_language: false
 categories:
 - hobby
 - activism
-languages:
-- en
 region: north_america
 legal_body_type: natural

@@ -1,12 +1,8 @@
 ---
 domain: woodworking.group
-override_description: false
-description: "A small place for all things related to woodworking \U0001FAB5\U0001FAB5\U0001FAB5
-  hosted by Thunderhost \U0001FAB5\U0001FAB5\U0001FAB5"
-override_language: true
 categories:
 - hobby
-languages:
-- en
 region: north_america
 legal_body_type: natural
+languages:
+- en

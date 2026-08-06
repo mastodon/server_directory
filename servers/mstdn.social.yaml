@@ -1,12 +1,4 @@
 ---
 domain: mstdn.social
-override_description: false
-description: A general-purpose Mastodon server with a 500 character limit. All languages
-  are welcome.
-override_language:
 categories:
 - general
-languages:
-- en
-region: ''
-legal_body_type:

@@ -1,12 +1,6 @@
 ---
 domain: sueden.social
-override_description: false
-description: Eine Community für alle, die sich dem Süden hingezogen fühlen. Wir können
-  alles außer Hochdeutsch.
-override_language: false
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural

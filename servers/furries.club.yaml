@@ -1,12 +1,6 @@
 ---
 domain: furries.club
-override_description: false
-description: Another server for the furry community. We have some special features
-  related to higher quality images and video on our instance. Check out https://furries.club/about
-override_language: false
 categories:
 - furry
-languages:
-- en
 region: north_america
 legal_body_type: natural

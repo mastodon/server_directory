@@ -1,12 +1,6 @@
 ---
 domain: est.social
-override_description: false
-description: "est.social on mõeldud Eestis üldkasutatavaks Mastodoni serveriks.\r\n\r\nest.social
-  is meant to be a general use Mastodon server for Estonia."
-override_language: false
 categories:
 - regional
-languages:
-- et
 region: europe
 legal_body_type: natural

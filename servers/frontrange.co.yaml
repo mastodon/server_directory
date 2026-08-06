@@ -1,12 +1,6 @@
 ---
 domain: frontrange.co
-override_description: false
-description: 'For anyone who values kindness and inclusivity. Named for those who
-  live in the Front Range of the Rockies, and also those who wish they could :) '
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: north_america
 legal_body_type: natural

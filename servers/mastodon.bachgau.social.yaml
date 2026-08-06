@@ -1,13 +1,8 @@
 ---
 domain: mastodon.bachgau.social
-override_description: false
-description: Das soziale Netzwerk, für den Bachgau und den bayrischen Untermain. Willkommen
-  sind alle aus der Region und darüber hinaus. Werdet ein Teil unserer Gemeinschaft,
-  seid Willkommen!
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

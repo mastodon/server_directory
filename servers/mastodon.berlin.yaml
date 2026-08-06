@@ -1,13 +1,6 @@
 ---
 domain: mastodon.berlin
-override_description: false
-description: MIT ÖKOSTROM BETRIEBEN:Erste Instanz,wenn dir BerlinerLuft nicht reicht...!Berlin(D)-BezogeneBegründung
-  erforderlich!NO ACCOUNTS IN NON EUROPEAN LANGUAGES- NUR Begründungen in ganzen SÄTZEN
-  akzeptiert
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: europe
 legal_body_type: natural

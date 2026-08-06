@@ -1,12 +1,6 @@
 ---
 domain: mastodon.sg
-override_description: false
-description: "Hosted in Singapore \U0001F1F8\U0001F1EC\r\nFor Singaporeans local and
-  abroad or friends of Singapore, welcome!"
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: asia
 legal_body_type: natural

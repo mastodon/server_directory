@@ -1,12 +1,6 @@
 ---
 domain: social.sndevs.com
-override_description: false
-description: The largest independent ServiceNow developer community with over 11,000
-  registered members and 500 active daily users. SNDevs.com
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: north_america
 legal_body_type: natural

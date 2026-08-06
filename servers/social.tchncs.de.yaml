@@ -1,14 +1,10 @@
 ---
 domain: social.tchncs.de
-override_description: false
-description: A friendly server from Germany – which tends to attract techy people,
-  but welcomes everybody. This is one of the oldest Mastodon instances.
-override_language: true
 categories:
 - tech
 - general
+region: europe
+legal_body_type: natural
 languages:
 - en
 - de
-region: europe
-legal_body_type: natural

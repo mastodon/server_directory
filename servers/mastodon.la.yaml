@@ -1,15 +1,13 @@
 ---
 domain: mastodon.la
-override_description: true
+categories:
+- general
+region: south_america
+legal_body_type: natural
 description: Mastodon.la es un server generalista y moderada ligeramente. Temas con
   respeto y sin desnudos innecesarios. El español es preferido. / Mastodon.la is generalist,
   lightly moderated.
-override_language: true
-categories:
-- general
 languages:
 - es
 - en
 - pt
-region: south_america
-legal_body_type: natural

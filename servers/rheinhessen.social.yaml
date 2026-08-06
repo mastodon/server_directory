@@ -1,11 +1,8 @@
 ---
 domain: rheinhessen.social
-override_description: false
-description: rheinhessen.social ist eine Mastodon-Instanz für Nutzer*innen aus Rheinhessen.
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

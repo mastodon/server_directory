@@ -1,13 +1,6 @@
 ---
 domain: ioc.exchange
-override_description: false
-description: "INDICATORS OF COMPROMISE (IOC)\r\nInfoSec Community within the Fediverse.
-  Newbies, experts, gurus - Everyone is Welcome! Instance is supposed to be fast and
-  secure.  "
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: north_america
 legal_body_type: natural

@@ -1,12 +1,8 @@
 ---
 domain: freiburg.social
-override_description: false
-description: 'Ein Mastodon-Server für Freiburg und Umland betrieben durch den Verein
-  freiburg.social e.V.: https://wir.freiburg.social'
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: juridicial
+languages:
+- de

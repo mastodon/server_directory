@@ -1,14 +1,7 @@
 ---
 domain: tech.lgbt
-override_description: false
-description: We welcome all marginalized identities. This Mastodon instance is generally
-  for folks who are LGBTQIA+ and Allies with an interest in tech work, academics,
-  or technology in general.
-override_language: false
 categories:
 - tech
 - lgbt
-languages:
-- en
 region: north_america
 legal_body_type: natural

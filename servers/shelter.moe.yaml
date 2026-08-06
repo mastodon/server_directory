@@ -1,12 +1,8 @@
 ---
 domain: shelter.moe
-override_description: false
-description: 'Bienvenue sur Shelter ! Au menu, discussions adultes, otaku et geek,
-  avec des gens sympas et dans le plus grand respect possible. '
-override_language: true
 categories:
 - games
-languages:
-- fr
 region: europe
 legal_body_type: natural
+languages:
+- fr

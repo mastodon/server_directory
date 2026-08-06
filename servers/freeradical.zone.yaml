@@ -1,12 +1,4 @@
 ---
 domain: freeradical.zone
-override_description: false
-description: Infosec and privacy and technology and leftward politics and cats and
-  dogs and...
-override_language:
 categories:
 - tech
-languages:
-- en
-region: ''
-legal_body_type:

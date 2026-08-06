@@ -1,12 +1,4 @@
 ---
 domain: social.coop
-override_description: false
-description: A Fediverse instance for people interested in cooperative and collective
-  projects. If you are interested in joining our community, please apply at https://wiki.social.coop/wiki/Registration_form
-override_language: false
 categories:
 - general
-languages:
-- en
-region: ''
-legal_body_type:

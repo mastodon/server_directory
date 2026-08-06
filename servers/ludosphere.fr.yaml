@@ -1,12 +1,8 @@
 ---
 domain: ludosphere.fr
-override_description: false
-description: Communauté ludique (jeux vidéo, de rôle, de société, etc) destinée aux
-  joueuses et joueurs francophones de tous horizons. French speaking people only.
-override_language: true
 categories:
 - games
-languages:
-- fr
 region: europe
 legal_body_type: natural
+languages:
+- fr

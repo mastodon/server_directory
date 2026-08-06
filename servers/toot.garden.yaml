@@ -1,14 +1,7 @@
 ---
 domain: toot.garden
-override_description: false
-description: A server for art, gaming, and musings about the world, with the occasional
-  meme and lighthearted joke. Running for 2.5+ years, dedicated to providing you a
-  place to be social without being the product
-override_language: false
 categories:
 - games
 - art
-languages:
-- en
 region: north_america
 legal_body_type: natural

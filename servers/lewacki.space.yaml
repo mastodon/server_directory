@@ -1,12 +1,6 @@
 ---
 domain: lewacki.space
-override_description: false
-description: lewacki.space to fed skierowany przede wszystkim do osób o szeroko rozumianych
-  poglądach lewicowych.
-override_language: false
 categories:
 - general
-languages:
-- pl
 region: europe
 legal_body_type: natural

@@ -1,14 +1,9 @@
 ---
 domain: toots.nu
-override_description: false
-description: "Welcome to this open and positive server located in Sweden. Our main
-  rule is: Choose to be kind.\r\n\r\nRegistrations are open for anyone, but please
-  post in Swedish or English. "
-override_language: true
 categories:
 - general
+region: europe
+legal_body_type: natural
 languages:
 - en
 - sv
-region: europe
-legal_body_type: natural

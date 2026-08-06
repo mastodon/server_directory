@@ -1,11 +1,6 @@
 ---
 domain: seocommunity.social
-override_description: false
-description: Mastodon server for the SEO (Search Engine Optimization) Community.
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: europe
 legal_body_type: natural

@@ -1,13 +1,6 @@
 ---
 domain: cyberfurz.social
-override_description: false
-description: A Mastodon Instance open to all! That said we do have a minor focus on
-  Tech, 3D Art, VRChat, Resonite, ChillOut, SecondLife, etc... Come chill with other
-  CyberFurz!
-override_language: false
 categories:
 - furry
-languages:
-- en
 region: north_america
 legal_body_type: natural

@@ -1,11 +1,8 @@
 ---
 domain: muenster.im
-override_description: false
-description: Aus Münster für Münster und für alle anderen netten Menschen.
-override_language: true
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural
+languages:
+- de

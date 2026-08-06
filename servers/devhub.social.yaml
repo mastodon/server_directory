@@ -1,13 +1,6 @@
 ---
 domain: devhub.social
-override_description: false
-description: devhub.social is about software development, IT architecture & prototyping.
-  We serve as a collaborative space to share knowledge, inspire innovation, and connect
-  with like-minded individuals in tech.
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: europe
 legal_body_type: natural

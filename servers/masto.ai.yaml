@@ -1,11 +1,6 @@
 ---
 domain: masto.ai
-override_description: false
-description: A general Mastodon server for all languages.
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: juridicial

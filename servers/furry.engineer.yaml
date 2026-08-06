@@ -1,15 +1,8 @@
 ---
 domain: furry.engineer
-override_description: false
-description: An instance aimed at techies and engineers of all types within the furry
-  fandom, but anyone is welcome. We're an LGBTQ+ friendly community and aiming to
-  offer a safe space for our users.
-override_language: false
 categories:
 - furry
 - lgbt
 - tech
-languages:
-- en
 region: north_america
 legal_body_type: natural

@@ -1,12 +1,6 @@
 ---
 domain: vkl.world
-override_description: false
-description: "Першы беларускамоўны сервер у сеціве Mastodon. Размовы з тымі, хто разумее
-  \U0001F60F\r\nServer only for Belarusian-language users.\r\n"
-override_language: false
 categories:
 - regional
-languages:
-- be
 region: europe
 legal_body_type: natural

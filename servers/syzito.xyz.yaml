@@ -1,14 +1,12 @@
 ---
 domain: syzito.xyz
-override_description: true
-description: Express yourself freely. Time travel is already a part of your journey
-  here, you have just not got to that part yet. “The main thing in life is to know
-  your own mind.” Snufkin
-override_language: true
 categories:
 - activism
 - regional
-languages:
-- en
 region: europe
 legal_body_type: natural
+description: Express yourself freely. Time travel is already a part of your journey
+  here, you have just not got to that part yet. “The main thing in life is to know
+  your own mind.” Snufkin
+languages:
+- en

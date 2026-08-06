@@ -1,12 +1,8 @@
 ---
 domain: mast.lat
-override_description: false
-description: Servidor en Español de temática general para hispanohablantes. Actualizado
-  a diario. ¡Tu aventura de Mastodon empieza aquí!
-override_language: true
 categories:
 - general
-languages:
-- es
 region: south_america
 legal_body_type: natural
+languages:
+- es

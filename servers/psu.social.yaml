@@ -1,13 +1,6 @@
 ---
 domain: psu.social
-override_description: false
-description: Independent site for Penn Staters, not operated by the University. Click
-  "Learn More" below to learn more about this service or click "create account" to
-  get started.
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: north_america
 legal_body_type: natural

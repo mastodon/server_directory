@@ -1,13 +1,6 @@
 ---
 domain: social.bau-ha.us
-override_description: false
-description: social.bau-ha.us is your friendly neighbourhood mastodon instance proudly
-  presented by Maschinenraum Weimar. Our focus is community. Feel free to join, but
-  please be aware that there are some rules!
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: juridicial

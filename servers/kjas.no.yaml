@@ -1,13 +1,8 @@
 ---
 domain: kjas.no
-override_description: false
-description: Et sted for deg som er interessert i markedsføring, sosiale medier og
-  næringsliv i Norge. Her deler vi kunnskap og læring, så vel som hverdagslig kjas.
-  La oss bli bedre kjent! :)
-override_language: true
 categories:
 - tech
-languages:
-- 'no'
 region: europe
 legal_body_type: natural
+languages:
+- 'no'

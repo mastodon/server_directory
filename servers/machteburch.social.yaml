@@ -1,13 +1,6 @@
 ---
 domain: machteburch.social
-override_description: false
-description: Magdeburg im Fediverse - Machteburch.social ist eine Mastodon-Instanz
-  für Magdeburg und alle, die Magdeburg mögen, oder sich mit Magdeburg verbunden fühlen.
-  Betrieben vom Softwerke Magdeburg e. V.
-override_language: false
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: natural

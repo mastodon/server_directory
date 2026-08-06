@@ -1,12 +1,6 @@
 ---
 domain: fediscience.org
-override_description: false
-description: 'fediscience.org is a social network for scientists run by FediScience
-  e.V., an international association dedicated to promoting scientific communication. '
-override_language: false
 categories:
 - academia
-languages:
-- en
 region: europe
 legal_body_type: juridicial

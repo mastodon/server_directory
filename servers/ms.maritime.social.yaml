@@ -1,12 +1,6 @@
 ---
 domain: ms.maritime.social
-override_description: false
-description: Maritime Social is a community with a mission to bring together maritime
-  enthusiasts and professionals.
-override_language: false
 categories:
 - hobby
-languages:
-- en
 region: europe
 legal_body_type: natural

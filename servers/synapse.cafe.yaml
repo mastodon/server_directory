@@ -1,13 +1,7 @@
 ---
 domain: synapse.cafe
-override_description: false
-description: A Mastodon instance for anyone interested in neuroscience, from cell
-  biology to electrophysiology to behavior to clinical applications, anyone is welcome!
-override_language: false
 categories:
 - academia
 - tech
-languages:
-- en
 region: north_america
 legal_body_type: natural

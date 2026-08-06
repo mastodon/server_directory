@@ -1,13 +1,6 @@
 ---
 domain: polsci.social
-override_description: false
-description: Mit polsci.social reagiert der FID Politikwissenschaft auf das Interesse
-  der politikwissenschaftlich Forschenden, einen offenen Kanal für die Wissenschaftskommunikation
-  bereitzustellen.
-override_language: false
 categories:
 - academia
-languages:
-- de
 region: europe
 legal_body_type: juridicial

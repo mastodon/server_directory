@@ -1,12 +1,6 @@
 ---
 domain: mastodon.london
-override_description: false
-description: Hi, this is the fediverse instance for Londoners and for everyone associated
-  with London
-override_language: false
 categories:
 - regional
-languages:
-- en
 region: europe
 legal_body_type: natural

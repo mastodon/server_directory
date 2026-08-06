@@ -1,12 +1,6 @@
 ---
 domain: bonn.social
-override_description: false
-description: Bonn.social ist ein Mastodon-Instanz für Bonn, Rhein-Sieg und für alle,
-  die Bonn und die Region mögen. ❤️
-override_language: false
 categories:
 - regional
-languages:
-- de
 region: europe
 legal_body_type: juridicial

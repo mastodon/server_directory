@@ -1,13 +1,9 @@
 ---
 domain: spore.social
-override_description: true
+categories:
+- activism
+region: europe
+legal_body_type: natural
 description: A community platform for justice and action on an overheating planet.
   A safe place free from harassment, free from bigotry, and one that promotes connection,
   mutual aid, joy, and transformative action at a critical moment in history.
-override_language: false
-categories:
-- activism
-languages:
-- en
-region: europe
-legal_body_type: natural

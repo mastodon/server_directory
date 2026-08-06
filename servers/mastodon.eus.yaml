@@ -1,13 +1,6 @@
 ---
 domain: mastodon.eus
-override_description: false
-description: "Mastodon.eus euskara eta euskal kulturaren komunitatearentzat sortutako
-  Mastodon instantzia bat da.\r\n\r\n2018an hauek sortua: Azkue Fund, Dinahosting,
-  iametza, Laborategia.eus, PuntuEUS eta Talaios Koop"
-override_language: false
 categories:
 - regional
-languages:
-- eu
 region: europe
 legal_body_type: natural

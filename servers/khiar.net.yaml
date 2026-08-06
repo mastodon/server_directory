@@ -1,12 +1,8 @@
 ---
 domain: khiar.net
-override_description: false
-description: "Khiar is a Mastodon instance for Farsi/English speakers\r\n\r\n\r\nخیار
-  یک نمونه ماستودون برای فارسی/انگلیسی‌زبانان است"
-override_language: true
 categories:
 - general
-languages:
-- fa
 region: africa
 legal_body_type: natural
+languages:
+- fa

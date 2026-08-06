@@ -1,12 +1,6 @@
 ---
 domain: learningdisability.social
-override_description: false
-description: An inclusive community for people with an interest in learning disabilities
-  (intellectual disability). Hosted by Photosymbols.
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: juridicial

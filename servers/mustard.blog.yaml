@@ -1,11 +1,8 @@
 ---
 domain: mustard.blog
-override_description: false
-description: 머스타드(Mustard)는 여러분의 일상에 톡 쏘는 즐거움을 더하는 연합 뷔페입니다.
-override_language: true
 categories:
 - general
-languages:
-- ko
 region: asia
 legal_body_type: natural
+languages:
+- ko

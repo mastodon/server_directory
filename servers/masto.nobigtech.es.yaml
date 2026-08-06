@@ -1,12 +1,6 @@
 ---
 domain: masto.nobigtech.es
-override_description: false
-description: Servidor de Mastodon del proyecto nobigtech.es, se aloja en Bilbao, Euskal
-  Herria. Temas generales, políticas de izquierdas.
-override_language: false
 categories:
 - general
-languages:
-- es
 region: europe
 legal_body_type: natural

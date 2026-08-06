@@ -1,12 +1,8 @@
 ---
 domain: mastoot.fr
-override_description: false
-description: Serveur généraliste où la bienveillance, le respect, la fraternité et
-  la sororité sont de mise. Tendance à Gauche.
-override_language: true
 categories:
 - general
-languages:
-- fr
 region: europe
 legal_body_type: natural
+languages:
+- fr

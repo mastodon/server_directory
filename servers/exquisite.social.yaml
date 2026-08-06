@@ -1,11 +1,6 @@
 ---
 domain: exquisite.social
-override_description: false
-description: A delightful and innocuous Mastodon community
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: europe
 legal_body_type: natural

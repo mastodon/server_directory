@@ -1,11 +1,6 @@
 ---
 domain: mastodontech.de
-override_description: false
-description: Offen für alle (über 16) und bereitgestellt von Markus'Blog
-override_language: false
 categories:
 - tech
-languages:
-- de
 region: europe
 legal_body_type: natural

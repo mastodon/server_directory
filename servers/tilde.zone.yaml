@@ -1,13 +1,6 @@
 ---
 domain: tilde.zone
-override_description: false
-description: mastodon instance of the tildeverse, a collection of small public access
-  *nix systems for collaboration, creativity, and socializing. a proud part of the
-  small internet.
-override_language: false
 categories:
 - tech
-languages:
-- en
 region: north_america
 legal_body_type: juridicial

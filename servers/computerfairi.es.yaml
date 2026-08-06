@@ -1,12 +1,6 @@
 ---
 domain: computerfairi.es
-override_description: false
-description: Computer Fairies is a Mastodon server that aims to be as queer, friendly
-  and furry as possible. We welcome all kinds of computer fairies!
-override_language: false
 categories:
 - general
-languages:
-- en
 region: europe
 legal_body_type: natural

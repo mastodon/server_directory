@@ -1,13 +1,9 @@
 ---
 domain: metalhead.club
-override_description: false
-description: Metalhead.club is a Mastodon instance hosted in Germany and powered by
-  100% green energy.
-override_language: true
 categories:
 - music
+region: europe
+legal_body_type: natural
 languages:
 - de
 - en
-region: europe
-legal_body_type: natural
