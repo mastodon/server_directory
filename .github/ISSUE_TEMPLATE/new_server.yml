@@ -1,5 +1,5 @@
-name: New Server Form
-description: Request a new server addition to the Mastodon Server Directory
+name: "New Server Form"
+description: "Request a new server addition to the Mastodon Server Directory"
 title: "[NEW SERVER]: "
 labels: ["new_server"]
 body:
@@ -10,15 +10,15 @@ body:
   - type: input
     id: domain
     attributes:
-      label: Domain name 
-      description: Domain name for your Mastodon server (e.g. mastodon.social)
+      label: "Domain name"
+      description: "Domain name for your Mastodon server (e.g. mastodon.social)"
     validations:
       required: true
   - type: dropdown
     id: categories
     attributes:
-      label: Categories
-      description: Select all valid categories, you must select at least one, you may select multiple categories.
+      label: "Categories"
+      description: "Select all valid categories, you must select at least one, you may select multiple categories."
       multiple: true
       options:
         - academia
@@ -44,9 +44,9 @@ body:
        required: true
   - type: dropdown
     id: region
-    attributes:       
-      label: Region
-      descripion: Select the most appropriate region for your server. You may select none.
+    attributes:
+      label: "Region"
+      descripion: "Select the most appropriate region for your server. You may select none."
       multiple: false
       options:
         - africa
@@ -60,8 +60,8 @@ body:
   - type: dropdown
     id: language
     attributes:
-      label: Language
-      description: Select a language (or languages) for your server. You may select none (we will interpret that as no preference), you do not need to select them all.
+      label: "Language"
+      description: "Select a language (or languages) for your server. You may select none (we will interpret that as no preference), you do not need to select them all."
       multiple: true
       options:
         - Abkhazian (ab)
@@ -257,9 +257,9 @@ body:
   - type: dropdown
     id: legal_structure
     attributes:
-      label: Legal structure
-      descripion: Select the most appropriate description for the ownership of your server.
-      multiple: false 
+      label: "Legal structure"
+      descripion: "Select the most appropriate description for the ownership of your server."
+      multiple: false
       options:
         - Private Individual (natural)
         - Public Organization (juridicial)
@@ -268,8 +268,8 @@ body:
   - type: textarea
     id: notes
     attributes:
-      label: Notes
-      description: Tell us here if there is anything else we should know about your server.
+      label: "Notes"
+      description: "Tell us here if there is anything else we should know about your server."
     validations:
       required: false
 
