@@ -49,7 +49,7 @@ body:
     id: region
     attributes:
       label: "Region"
-      descripion: "Select the most appropriate region for your server. You may select none."
+      description: "Select the most appropriate region for your server. You may select none."
       multiple: false
       options:
         - africa
@@ -263,7 +263,7 @@ body:
     id: legal_structure
     attributes:
       label: "Legal structure"
-      descripion: "Select the most appropriate description for the ownership of your server."
+      description: "Select the most appropriate description for the ownership of your server."
       multiple: false
       options:
         - Private Individual (natural)
