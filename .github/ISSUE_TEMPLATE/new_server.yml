@@ -42,8 +42,8 @@ body:
         - religion
         - sports
         - tech
-     validations:
-       required: true
+    validations:
+      required: true
 
   - type: dropdown
     id: region
