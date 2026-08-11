@@ -7,6 +7,7 @@ body:
     attributes:
       value: |
         Please fill out this form completely in order to request a new server addition to the Mastodon Server Directory.
+
   - type: input
     id: domain
     attributes:
@@ -14,6 +15,7 @@ body:
       description: "Domain name for your Mastodon server (e.g. mastodon.social)"
     validations:
       required: true
+
   - type: dropdown
     id: categories
     attributes:
@@ -42,6 +44,7 @@ body:
         - tech
      validations:
        required: true
+
   - type: dropdown
     id: region
     attributes:
@@ -57,6 +60,7 @@ body:
         - south_america
     validations:
       required: false
+
   - type: dropdown
     id: language
     attributes:
@@ -254,6 +258,7 @@ body:
         - Zulu (zu)
     validations:
       required: false 
+
   - type: dropdown
     id: legal_structure
     attributes:
@@ -265,6 +270,7 @@ body:
         - Public Organization (juridicial)
     validations:
       required: false
+
   - type: textarea
     id: notes
     attributes:
@@ -272,4 +278,3 @@ body:
       description: "Tell us here if there is anything else we should know about your server."
     validations:
       required: false
-
