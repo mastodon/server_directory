@@ -3,7 +3,7 @@ name: Push Check schema
 on:
   push:
     paths:
-      - 'servers/**'
+      - 'servers/*'
 
 jobs:
   Schema-validation:
