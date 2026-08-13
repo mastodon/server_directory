@@ -1,6 +1,9 @@
 ---
 domain: kompektiva.org
 categories:
-- activism
+  - activism
 region: asia
 legal_body_type: natural
+languages:
+  - fa
+  - jp
