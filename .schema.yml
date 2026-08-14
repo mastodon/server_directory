@@ -30,6 +30,7 @@ properties:
       - religion
       - sports
       - tech
+      - science
   languages:
     type: array
     items:
