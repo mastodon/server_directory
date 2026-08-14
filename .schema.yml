@@ -33,7 +33,74 @@ properties:
   languages:
     type: array
     items:
-      type: string
+      enum:
+      - ar
+      - ast
+      - bg
+      - bn
+      - br
+      - ca
+      - co
+      - cs
+      - cy
+      - da
+      - de
+      - el
+      - en
+      - eo
+      - es
+      - et
+      - eu
+      - fa
+      - fi
+      - fr
+      - ga
+      - gl
+      - he
+      - hi
+      - hr
+      - hu
+      - hy
+      - id
+      - io
+      - is
+      - it
+      - ja
+      - ka
+      - kab
+      - kk
+      - kn
+      - ko
+      - lt
+      - lv
+      - mk
+      - ml
+      - mr
+      - ms
+      - nl
+      - nn
+      - no
+      - oc
+      - pl
+      - pt
+      - ro
+      - ru
+      - sk
+      - sl
+      - sq
+      - sr
+      - sv
+      - szl
+      - ta
+      - tai
+      - te
+      - th
+      - tr
+      - ug
+      - uk
+      - ur
+      - vi
+      - zh
   region:
     enum:
     - europe
