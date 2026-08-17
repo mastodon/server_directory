@@ -1,12 +1,8 @@
 ---
 domain: mastodon.nu
 categories:
-  - regional
+- regional
 region: europe
 legal_body_type: natural
 languages:
-  - is
-  - da
-  - no
-  - sv
-  - fi
+- sv
