@@ -1,0 +1,30 @@
+---
+name: Push Check schema
+on:
+  push:
+    paths:
+      - 'default_servers/*'
+
+jobs:
+  Schema-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v7
+
+      - name: Install check-jsonschema
+        run: pip install check-jsonschema
+
+      - name: Run Check-jsonschema
+        run: check-jsonschema --schemafile .dsr_schema.yml default_servers/*
+  Lint-yaml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clone repository
+        uses: actions/checkout@v7
+
+      - name: Lint yaml files
+        uses: ibiqlik/action-yamllint@v3
+        with:
+          file_or_dir: default_servers/*
+          format: github
