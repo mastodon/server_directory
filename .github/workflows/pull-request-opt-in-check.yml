@@ -2,6 +2,8 @@
 name: Opt-in check
 on:
   push:
+    paths:
+      - 'default_servers/*'
 
 jobs:
   Schema-validation:
