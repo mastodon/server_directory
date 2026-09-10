@@ -26,7 +26,7 @@ jobs:
             for domain in $FILES; do
               RESPONSE_CODE=$(curl --silent --connect-timeout 5 --output /dev/null -I --write-out "%{http_code}" "http://${domain}/dsr_opt_in.txt" || echo "000")
 
-              if [ "$RESPONSE_CODE" -ne 301 ]; then
+              if [ "$RESPONSE_CODE" -ne 200 ]; then
                 echo "$domain is not reachable Statuscode: $RESPONSE_CODE"
                 FAILED=$((FAILED + 1))
               else
