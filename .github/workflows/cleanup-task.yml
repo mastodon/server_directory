@@ -1,0 +1,90 @@
+---
+name: Cleanup Inactive Server Files
+on:
+  push:
+  # schedule:
+  #   - cron: '0 6 * * *' # Every day
+  # workflow_dispatch:
+  #  for domain in `curl http://127.0.0.1:3000/active-servers/ | tr '[",]' ' ' \ `; do echo $domain; done
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  TEST_FILE_PATH: ./servers/server.something.yml
+
+jobs:
+  cleanup-files:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+      - name: Read filenames in server dir
+        id: file_path
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "server_domains=$(gh repo read-dir servers --repo mastodon/server_directory_test --json name | jq -r '.["entries"] | .[] | .name' | xargs -I {} basename {} .yml | xargs -I {} basename {} .yaml | xargs)" >> $GITHUB_OUTPUT
+      - name: echo server-domains
+        run: echo "${{ steps.file_path.outputs.server_domains }}"
+      # when active servers are not empty the response gets formatted
+      - name: Request active server files
+        id: curl
+        # ACTIVE_SERVERS=$(curl --silent --connect-timeout 5 "http://${domain}/dsr_opt_in.txt" )
+        run: |
+            ACTIVE_SERVERS=["add.more.languages","allows.all.languages","catland.social","domain.test","european.server","for.testing","loony.tunes","mastodon.social","mstdn.srvr","other.server","test.server"]
+
+            if [ -n "$ACTIVE_SERVERS" ]; then
+              formatted=$(echo $ACTIVE_SERVERS | tr '[",]' ' ')
+              echo "active_servers=$formatted" >> $GITHUB_OUTPUT
+            else
+              echo "no active servers found"
+              exit 1
+            fi
+      - name: Compare active servers with server files
+        id: files
+        # filter out which items from the server domains list are missing from the active server list
+        run: |
+          ACTIVE_SERVERS="${{ steps.curl.outputs.active_servers }}"
+          DOMAINS="${{ steps.file_path.outputs.server_domains }}"
+          diff=$(grep -vxf <(echo "$ACTIVE_SERVERS" | tr ' ' '\n') <(echo "$DOMAINS" | tr ' ' '\n') || true)
+          MISSING=$(echo "$diff" | tr '\n' ' ')
+          echo "missing_domains=$MISSING" >> $GITHUB_OUTPUT
+
+          if [ -z "$MISSING" ]; then
+            echo "all elements from server domains are in ACTIVE_SERVERS"
+          else
+            echo "missing elements $MISSING"
+          fi
+        shell: bash
+      # build paths for the missing domains and delete them if the file can be found
+      - name: Remove file of inactive server
+        if: ${{ steps.files.outputs.missing_domains != '' }}
+        run: |
+          MISSING="${{ steps.files.outputs.missing_domains }}"
+
+          for domain in $MISSING; do
+            server_path="./servers/$domain.yaml"
+            default_server_path="./default_servers/$domain.yaml"
+            if [ -f  $server_path ]; then
+              rm $server_path
+              echo "$server_path removed."
+            elif [ -f $default_server_path ]; then
+              rm $default_server_path
+              echo "$default_server_path removed."
+            else
+              echo "$server_path and $default_server_path not fund."
+              exit 1
+            fi
+          done
+        shell: bash
+      # Create or update the pull request
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          commit-message: Remove inactive server files
+          title: Cleanup Server Files (automated)
+          author: GitHub Actions <noreply@github.com>
+          body: Remove inactive server files, automated with GitHub Actions
+          branch: cleanup-servers
+          base: main
