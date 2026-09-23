@@ -4,13 +4,10 @@ on:
   schedule:
     - cron: '0 6 * * *' # Every day
   workflow_dispatch:
-  #  for domain in `curl http://127.0.0.1:3000/active-servers/ | tr '[",]' ' ' \ `; do echo $domain; done
+
 permissions:
   contents: write
   pull-requests: write
-
-env:
-  TEST_FILE_PATH: ./servers/server.something.yml
 
 jobs:
   cleanup-files:
@@ -29,7 +26,7 @@ jobs:
       # when active servers are not empty the response gets formatted
       - name: Request active server files
         id: curl
-        # ACTIVE_SERVERS=$(curl --silent --connect-timeout 5 "http://${domain}/dsr_opt_in.txt" )
+        # ACTIVE_SERVERS=$(curl --silent --connect-timeout 5 "http://api.joinmastodon.org/active-servers/" )
         run: |
             ACTIVE_SERVERS=["add.more.languages","allows.all.languages","catland.social","domain.test","european.server","for.testing","loony.tunes","mastodon.social","mstdn.srvr","other.server","test.server"]
 
