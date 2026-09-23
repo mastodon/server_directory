@@ -1,10 +1,9 @@
 ---
 name: Cleanup Inactive Server Files
 on:
-  push:
-  # schedule:
-  #   - cron: '0 6 * * *' # Every day
-  # workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *' # Every day
+  workflow_dispatch:
   #  for domain in `curl http://127.0.0.1:3000/active-servers/ | tr '[",]' ' ' \ `; do echo $domain; done
 permissions:
   contents: write
@@ -58,6 +57,7 @@ jobs:
           fi
         shell: bash
       # build paths for the missing domains and delete them if the file can be found
+      # the removal is currently disabled to keep the server files
       - name: Remove file of inactive server
         if: ${{ steps.files.outputs.missing_domains != '' }}
         run: |
