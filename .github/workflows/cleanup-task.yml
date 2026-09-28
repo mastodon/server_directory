@@ -23,7 +23,7 @@ jobs:
         run: |
           {
             echo 'server_domains<<EOF'
-            gh repo read-dir servers --repo mastodon/server_directory --json name | jq -r '.["entries"] | .[] | .name' | xargs -I {} basename {} .yml | xargs -I {} basename {} .yaml | xargs)
+            gh repo read-dir servers --repo mastodon/server_directory --json name | jq -r '.["entries"] | .[] | .name' | xargs -I {} basename {} .yml | xargs -I {} basename {} .yaml | xargs
             echo EOF
           } >> "$GITHUB_OUTPUT"
       - name: echo server-domains
