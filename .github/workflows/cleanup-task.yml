@@ -28,7 +28,7 @@ jobs:
       - name: Request active server files
         id: curl
         run: |
-            ACTIVE_SERVERS=$(curl --silent --connect-timeout 10 "http://api.joinmastodon.org/active-servers/" )
+            ACTIVE_SERVERS=$(curl --silent --connect-timeout 100 "http://api.joinmastodon.org/active-servers/" )
 
             if [ -n "$ACTIVE_SERVERS" ]; then
               formatted=$(echo $ACTIVE_SERVERS | tr '[",]' ' ')
