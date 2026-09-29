@@ -48,7 +48,7 @@ jobs:
         id: files
         # filter out which items from the server domains list are missing from the active server list
         run: |
-          ACTIVE_SERVERS="${{ steps.curl.outputs.active_servers }}"
+          ACTIVE_SERVERS="${{ steps.request.outputs.active_servers }}"
           DOMAINS="${{ steps.file_path.outputs.server_domains }}"
           diff=$(grep -vxf <(echo "$ACTIVE_SERVERS" | tr ' ' '\n') <(echo "$DOMAINS" | tr ' ' '\n') || true)
           MISSING=$(echo "$diff" | tr '\n' ' ')
