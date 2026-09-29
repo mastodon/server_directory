@@ -20,6 +20,7 @@ jobs:
         id: file_path
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        # this creates a multiline string, the response gets truncated otherwise
         run: |
           {
             echo 'server_domains<<EOF'
@@ -41,6 +42,8 @@ jobs:
               echo "no active servers found"
               exit 1
             fi
+      - name: echo active servers
+        run: echo "${{ steps.request.outputs.active_servers }}"
       - name: Compare active servers with server files
         id: files
         # filter out which items from the server domains list are missing from the active server list
@@ -57,6 +60,8 @@ jobs:
             echo "missing elements $MISSING"
           fi
         shell: bash
+      - name: echo missing-domains
+        run: echo "${{ steps.files.outputs.missing_domains }}"
       # build paths for the missing domains and delete them if the file can be found
       # the removal is currently disabled to keep the server files
       - name: Remove file of inactive server
