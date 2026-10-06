@@ -26,13 +26,13 @@ jobs:
             for domain in $FILES; do
               NODEINFO=$(curl -L "http://${domain}/nodeinfo/2.0" | jq -r '.["metadata"] | .["optInServerRecommendation"]'|| echo "000")
 
-              if [ "$NODEINFO" -ne "true" || "false" ]; then
-                echo "$domain does not expose optInServerRecommendation or is not reachable"
+              if [ $NODEINFO==true ]
+                echo "$domain exposes optInServerRecommendation: $NODEINFO"
+              elif [ $NODEINFO==false ]
+                echo "$domain exposes optInServerRecommendation: $NODEINFO"
                 FAILED=$((FAILED + 1))
-              elif [ "$NODEINFO" == "true" ]
-                echo "$domain exposes optInServerRecommendation: $NODEINFO"
-              elif [ "$NODEINFO" == "false" ]
-                echo "$domain exposes optInServerRecommendation: $NODEINFO"
+              else
+                echo "$domain does not expose optInServerRecommendation or is not reachable"
                 FAILED=$((FAILED + 1))
               fi
             done
@@ -41,3 +41,4 @@ jobs:
               echo "not all endpoint could be reached"
               exit 1
             fi
+        shell: bash
