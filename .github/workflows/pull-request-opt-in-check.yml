@@ -26,9 +26,9 @@ jobs:
             for domain in $FILES; do
               NODEINFO=$(curl -L "http://${domain}/nodeinfo/2.0" | jq -r '.["metadata"] | .["optInServerRecommendation"]'|| echo "000")
 
-              if [ $NODEINFO==true ]
+              if [[ "$NODEINFO" == 'true' ]]; then
                 echo "$domain exposes optInServerRecommendation: $NODEINFO"
-              elif [ $NODEINFO==false ]
+              elif [[ "$NODEINFO" == 'false' ]]; then
                 echo "$domain exposes optInServerRecommendation: $NODEINFO"
                 FAILED=$((FAILED + 1))
               else
