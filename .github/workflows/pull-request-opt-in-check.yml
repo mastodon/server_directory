@@ -24,7 +24,7 @@ jobs:
         run: |
             FILES="${{ steps.getfile.outputs.files }}"
             for domain in $FILES; do
-              NODEINFO=$(curl -L "http://mastodon.social/nodeinfo/2.0" | jq -r '.["metadata"] | .["optInServerRecommendation"]'|| echo "000")
+              NODEINFO=$(curl -L "http://${domain}/nodeinfo/2.0" | jq -r '.["metadata"] | .["optInServerRecommendation"]'|| echo "000")
 
               if [ "$NODEINFO" -ne "true" || "false" ]; then
                 echo "$domain does not expose optInServerRecommendation or is not reachable"
