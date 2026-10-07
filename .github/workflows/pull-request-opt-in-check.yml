@@ -23,6 +23,7 @@ jobs:
         if: ${{ steps.getfile.outputs.files != '' }}
         run: |
             FILES="${{ steps.getfile.outputs.files }}"
+            FAILED=0
             for domain in $FILES; do
               NODEINFO=$(curl -L "http://${domain}/nodeinfo/2.0" | jq -r '.["metadata"] | .["optInServerRecommendation"]'|| echo "000")
 
@@ -30,10 +31,15 @@ jobs:
                 echo "$domain exposes optInServerRecommendation: $NODEINFO"
               elif [[ "$NODEINFO" == 'false' ]]; then
                 echo "$domain exposes optInServerRecommendation: $NODEINFO"
-                exit 1
+                FAILED=$((FAILED + 1))
               else
                 echo "$domain does not expose optInServerRecommendation or is not reachable"
-                exit 1
+                FAILED=$((FAILED + 1))
               fi
             done
+
+            if [ "$FAILED" -gt 0 ]; then
+              echo "not all endpoint could be reached"
+              exit 1
+            fi
         shell: bash
