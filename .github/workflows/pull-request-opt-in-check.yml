@@ -30,15 +30,10 @@ jobs:
                 echo "$domain exposes optInServerRecommendation: $NODEINFO"
               elif [[ "$NODEINFO" == 'false' ]]; then
                 echo "$domain exposes optInServerRecommendation: $NODEINFO"
-                FAILED=$((FAILED + 1))
+                exit 1
               else
                 echo "$domain does not expose optInServerRecommendation or is not reachable"
-                FAILED=$((FAILED + 1))
+                exit 1
               fi
             done
-
-            if [ "$FAILED" -gt 0 ]; then
-              echo "not all endpoint could be reached"
-              exit 1
-            fi
         shell: bash
