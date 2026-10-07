@@ -23,6 +23,7 @@ jobs:
         if: ${{ steps.getfile.outputs.files != '' }}
         run: |
             FILES="${{ steps.getfile.outputs.files }}"
+            FAILED=0
             for domain in $FILES; do
               NODEINFO=$(curl -L "http://${domain}/nodeinfo/2.0" | jq -r '.["metadata"] | .["optInServerRecommendation"]'|| echo "000")
 
