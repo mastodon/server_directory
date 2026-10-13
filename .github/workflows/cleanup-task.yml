@@ -73,8 +73,12 @@ jobs:
             server_path="./servers/$domain.yaml"
             default_server_path="./default_servers/$domain.yaml"
             if [ -f  $server_path ]; then
-              # rm $server_path
+              rm $server_path
               echo "$server_path removed."
+              if [ -f $default_server_path ]; then
+                rm $default_server_path
+                echo "$default_server_path removed."
+              fi
             elif [ -f $default_server_path ]; then
               rm $default_server_path
               echo "$default_server_path removed."
