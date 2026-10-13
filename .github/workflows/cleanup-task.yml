@@ -2,8 +2,8 @@
 name: Cleanup Inactive Server Files
 on:
   push:
-  # schedule:
-  #   - cron: '0 6 * * *' # Every day
+  schedule:
+    - cron: '0 6 * * *' # Every day at 6
   workflow_dispatch:
 
 permissions:
